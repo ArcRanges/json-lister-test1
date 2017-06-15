@@ -1,2 +1,2 @@
 # Korse
-Create a sample JSON file that lists objects.
+Web Repo for BC Courses
