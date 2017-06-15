@@ -1,0 +1,82 @@
+{
+	"courses":[
+		{
+			"course_id": "CNST 1140",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31031",
+					"subject": "CNST",
+					"course": "1140",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Racism & Ethnic Rels in Canada",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1720",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A374",
+					"instructor": "Indira-Natasha Prahst, Kory Wilson, Linda Hale"
+				}
+			]
+		},
+		{
+			"course_id": "CNST 1160",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31032",
+					"subject": "CNST",
+					"course": "1160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Canadian Cultural Expression",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Lee Blanding, . TBA, Christina Froschauer"
+				}
+			]
+		},
+		{
+			"course_id": "CNST 4850",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31033",
+					"subject": "CNST",
+					"course": "4850",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Work in Canadian Society",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-----S-",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Tatiana van Riemsdijk"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,368 @@
+{
+	"courses":[
+		{
+			"course_id": "COOP 2301",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31086",
+					"subject": "COOP",
+					"course": "2301",
+					"section": "C01",
+					"credits": "3.00",
+					"title": "Co-op Work Placement I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2302",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31087",
+					"subject": "COOP",
+					"course": "2302",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement I Part I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2303",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31145",
+					"subject": "COOP",
+					"course": "2303",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement I Part 2",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2314",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "1",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31088",
+					"subject": "COOP",
+					"course": "2314",
+					"section": "C01",
+					"credits": "3.00",
+					"title": "Co-op Work Ext. Performance I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2501",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31089",
+					"subject": "COOP",
+					"course": "2501",
+					"section": "C01",
+					"credits": "3.00",
+					"title": "Co-op Work Placement II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2502",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31090",
+					"subject": "COOP",
+					"course": "2502",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement II Part I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2503",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31155",
+					"subject": "COOP",
+					"course": "2503",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement II Pt II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 2514",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "1",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31091",
+					"subject": "COOP",
+					"course": "2514",
+					"section": "C01",
+					"credits": "3.00",
+					"title": "Co-op Work Ext Prfrmnc II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 3301",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31092",
+					"subject": "COOP",
+					"course": "3301",
+					"section": "C01",
+					"credits": "3.00",
+					"title": "Co-op Work Placement III",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 3302",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31093",
+					"subject": "COOP",
+					"course": "3302",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement III Pt I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 3303",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31146",
+					"subject": "COOP",
+					"course": "3303",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement III Pt II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 4301",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31094",
+					"subject": "COOP",
+					"course": "4301",
+					"section": "C01",
+					"credits": "3.00",
+					"title": "Co-op Work Placement IV",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Sean Padley, Heather Workman"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 4302",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31095",
+					"subject": "COOP",
+					"course": "4302",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement IV Pt I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "COOP 4303",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31147",
+					"subject": "COOP",
+					"course": "4303",
+					"section": "C01",
+					"credits": "1.50",
+					"title": "Co-op Work Placement IV Pt II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Dionne Orrange, Heather Workman, Sean Padley"
+				}
+			]
+		}
+	]
+}

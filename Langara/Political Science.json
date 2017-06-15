@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "POLI 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "70",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30253",
+					"subject": "POLI",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Government Politics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136A",
+					"instructor": "Paolo Prosperi"
+				}
+			]
+		},
+		{
+			"course_id": "POLI 1119",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30256",
+					"subject": "POLI",
+					"course": "1119",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cdn Politics & Government",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B021",
+					"instructor": "Stephen Phillips"
+				}
+			]
+		},
+		{
+			"course_id": "POLI 1140",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30267",
+					"subject": "POLI",
+					"course": "1140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Intntl Relations",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": "Lealle Ruhl"
+				}
+			]
+		},
+		{
+			"course_id": "POLI 1145",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30273",
+					"subject": "POLI",
+					"course": "1145",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Peace & Conflict in Mod Wrld",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B010",
+					"instructor": "Lealle Ruhl"
+				}
+			]
+		},
+		{
+			"course_id": "POLI 1160",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30278",
+					"subject": "POLI",
+					"course": "1160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Contemporary Ideologies",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136A",
+					"instructor": "Ramjee Parajulee"
+				}
+			]
+		},
+		{
+			"course_id": "POLI 2229",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30279",
+					"subject": "POLI",
+					"course": "2229",
+					"section": "W01",
+					"credits": "3.00",
+					"title": "Introduction to Urban Politics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Terri Evans"
+				}
+			]
+		}
+	]
+}

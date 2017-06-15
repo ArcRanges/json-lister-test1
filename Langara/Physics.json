@@ -1,0 +1,212 @@
+{
+	"courses":[
+		{
+			"course_id": "PHYS 1101",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30445",
+					"subject": "PHYS",
+					"course": "1101",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Physics for Life Sciences",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C409",
+					"instructor": "Tyron Tsui"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 1114",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30448",
+					"subject": "PHYS",
+					"course": "1114",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Basic Physics",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T342",
+					"instructor": "Karen Heiderich"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 1118",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30454",
+					"subject": "PHYS",
+					"course": "1118",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Introductory Physics",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T342",
+					"instructor": "Bradley Hughes"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 1124",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30459",
+					"subject": "PHYS",
+					"course": "1124",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Energy and the Environment",
+					"fees": "$21.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T342",
+					"instructor": "Robin Macqueen"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 1125",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30460",
+					"subject": "PHYS",
+					"course": "1125",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Physics I With Calculus",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T313",
+					"instructor": "Pari Ranjbary"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 1225",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30465",
+					"subject": "PHYS",
+					"course": "1225",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Physics II With Calculus",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T342",
+					"instructor": "Pari Ranjbary"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 2309",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30466",
+					"subject": "PHYS",
+					"course": "2309",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Intmdt. Experimental Physics 1",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1430-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T346",
+					"instructor": "Terrence Coates"
+				}
+			]
+		},
+		{
+			"course_id": "PHYS 2424",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30467",
+					"subject": "PHYS",
+					"course": "2424",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Relativity and Quanta",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T313",
+					"instructor": "Terrence Coates"
+				}
+			]
+		}
+	]
+}

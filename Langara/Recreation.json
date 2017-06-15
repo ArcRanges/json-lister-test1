@@ -1,0 +1,316 @@
+{
+	"courses":[
+		{
+			"course_id": "RECR 1160",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30057",
+					"subject": "RECR",
+					"course": "1160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Foundations of Leisure & Rec",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C409",
+					"instructor": "Janet Ready"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 1162",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30059",
+					"subject": "RECR",
+					"course": "1162",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Direct Leadership In Recreatio",
+					"fees": "$421.65",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "GYM",
+					"instructor": "Yue-Ching Cheng"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 1170",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30060",
+					"subject": "RECR",
+					"course": "1170",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Rec Fac & Envrnmts",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G103",
+					"instructor": "Yue-Ching Cheng"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 2260",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30061",
+					"subject": "RECR",
+					"course": "2260",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Arts & Heritage in Recreation",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G103",
+					"instructor": "Cyndy Chwelos"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 2295",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30065",
+					"subject": "RECR",
+					"course": "2295",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Special Topics II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Janet Ready"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 2361",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30062",
+					"subject": "RECR",
+					"course": "2361",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Applied Ldrshp in Rec Orgnstn",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "GYM",
+					"instructor": "Janet Ready"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 2388",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30063",
+					"subject": "RECR",
+					"course": "2388",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intnshp Ornttn & Advncd Prtfl",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G103",
+					"instructor": "Erin Wilkins"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 2470",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30064",
+					"subject": "RECR",
+					"course": "2470",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Recrn Issues & Trends",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G103",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 3120",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30066",
+					"subject": "RECR",
+					"course": "3120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Prmtg Wellness w/in Cmmnities",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Erin Wilkins"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 3200",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30068",
+					"subject": "RECR",
+					"course": "3200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mngmnt Cmmnty Events & Fstvls",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Erin Wilkins"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 3230",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30069",
+					"subject": "RECR",
+					"course": "3230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Leadership Mngmnt In Cmnty Rec",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Shannon Wall"
+				}
+			]
+		},
+		{
+			"course_id": "RECR 4270",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30073",
+					"subject": "RECR",
+					"course": "4270",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mngmnt of Rec Fac Systms",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Yue-Ching Cheng"
+				}
+			]
+		}
+	]
+}

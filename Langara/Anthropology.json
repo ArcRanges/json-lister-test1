@@ -1,0 +1,212 @@
+{
+	"courses":[
+		{
+			"course_id": "ANTH 1120",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30554",
+					"subject": "ANTH",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Cultural Anthropology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136B",
+					"instructor": "Gordon Roe"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 1131",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30558",
+					"subject": "ANTH",
+					"course": "1131",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Phys Anth & Hmn Orig",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Cassandra Bill"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 1132",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30559",
+					"subject": "ANTH",
+					"course": "1132",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Archaeology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Cassandra Bill"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 1160",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30563",
+					"subject": "ANTH",
+					"course": "1160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Reg Stds in Anth:Latin America",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Cassandra Bill"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 1170",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30564",
+					"subject": "ANTH",
+					"course": "1170",
+					"section": "001",
+					"credits": "3.00",
+					"title": "An Intro to Myth & Folklore",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A284",
+					"instructor": "Gordon Roe"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 1180",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30565",
+					"subject": "ANTH",
+					"course": "1180",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Aboriginal Cultures of BC",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Adam Solomonian"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 1400",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30561",
+					"subject": "ANTH",
+					"course": "1400",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Forensic Anthropology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Lisa Ferguson"
+				}
+			]
+		},
+		{
+			"course_id": "ANTH 2260",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30566",
+					"subject": "ANTH",
+					"course": "2260",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Gender in Cross-Cultural Persp",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Gordon Roe"
+				}
+			]
+		}
+	]
+}

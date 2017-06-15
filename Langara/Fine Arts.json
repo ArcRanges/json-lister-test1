@@ -1,0 +1,524 @@
+{
+	"courses":[
+		{
+			"course_id": "FINA 1111",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30525",
+					"subject": "FINA",
+					"course": "1111",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Foundation Ceramic",
+					"fees": "$91.90",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A004",
+					"instructor": "Alwyn O'Brien"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1120",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30527",
+					"subject": "FINA",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Drawing I",
+					"fees": "$93.15",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A003",
+					"instructor": "Milos Campbell"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1131",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30531",
+					"subject": "FINA",
+					"course": "1131",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Foundation Painting",
+					"fees": "$91.90",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1400-1750",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A049",
+					"instructor": "Steven Hubert"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1142",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31137",
+					"subject": "FINA",
+					"course": "1142",
+					"section": "002",
+					"credits": "3.00",
+					"title": "Foundation Design Studio",
+					"fees": "$91.35",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A046",
+					"instructor": "Philip Robbins"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1143",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31139",
+					"subject": "FINA",
+					"course": "1143",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Foundation Media Studio",
+					"fees": "$90.10",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A046",
+					"instructor": "Elizabeth Milton"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1161",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30533",
+					"subject": "FINA",
+					"course": "1161",
+					"section": "002",
+					"credits": "3.00",
+					"title": "Foundation Sculpture",
+					"fees": "$91.90",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A007",
+					"instructor": "Jake Lane"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1171",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30535",
+					"subject": "FINA",
+					"course": "1171",
+					"section": "002",
+					"credits": "3.00",
+					"title": "Foundation Printmaking",
+					"fees": "$91.90",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A045",
+					"instructor": "Aurora Landin"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1195",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "14",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31166",
+					"subject": "FINA",
+					"course": "1195",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Reconciliation Carving 1",
+					"fees": "$35.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1400-1750",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A046",
+					"instructor": "Aaron Nelson"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 1220",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30537",
+					"subject": "FINA",
+					"course": "1220",
+					"section": "005",
+					"credits": "3.00",
+					"title": "Intro to Drawing II",
+					"fees": "$93.15",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1400-1750",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A003",
+					"instructor": "Jake Lane"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2110",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30539",
+					"subject": "FINA",
+					"course": "2110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Ceramics I",
+					"fees": "$43.40",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A004",
+					"instructor": "Alwyn O'Brien"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2115",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30540",
+					"subject": "FINA",
+					"course": "2115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Ceramics: Intro to Wheel Throw",
+					"fees": "$81.15",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A004",
+					"instructor": "Alwyn O'Brien"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2120",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30541",
+					"subject": "FINA",
+					"course": "2120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Drawing I",
+					"fees": "$43.40",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1400-1750",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A044",
+					"instructor": "Aurora Landin"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2130",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "15",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30543",
+					"subject": "FINA",
+					"course": "2130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Painting I",
+					"fees": "$43.40",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A049",
+					"instructor": "Stephanie Aitken"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2140",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30545",
+					"subject": "FINA",
+					"course": "2140",
+					"section": "005",
+					"credits": "3.00",
+					"title": "Advanced Design Studio I",
+					"fees": "$43.40",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1430-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A046",
+					"instructor": "Philip Robbins"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2141",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30546",
+					"subject": "FINA",
+					"course": "2141",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Media Studio I",
+					"fees": "$37.25",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A247",
+					"instructor": "Elizabeth Milton"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2150",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30547",
+					"subject": "FINA",
+					"course": "2150",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Asthtcs & Cltrl Thry",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Lynn Ruscheinsky"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2160",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30548",
+					"subject": "FINA",
+					"course": "2160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Sculpture I",
+					"fees": "$43.40",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1330-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A007",
+					"instructor": "Devon Knowles"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2161",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30549",
+					"subject": "FINA",
+					"course": "2161",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Public Art Studio Practice",
+					"fees": "$117.05",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1330-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A007",
+					"instructor": "Devon Knowles"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2171",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30550",
+					"subject": "FINA",
+					"course": "2171",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advn'd Prnt Mdia I: Intl'o Rlf",
+					"fees": "$93.15",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A045",
+					"instructor": "Milos Campbell"
+				}
+			]
+		},
+		{
+			"course_id": "FINA 2195",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30551",
+					"subject": "FINA",
+					"course": "2195",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Performance",
+					"fees": "$81.15",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1400-1750",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A003",
+					"instructor": "Elizabeth Milton"
+				}
+			]
+		}
+	]
+}

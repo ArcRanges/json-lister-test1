@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "CHIN 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30855",
+					"subject": "CHIN",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's College Chinese I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A338",
+					"instructor": "Huimin Lin"
+				}
+			]
+		},
+		{
+			"course_id": "CHIN 1117",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30857",
+					"subject": "CHIN",
+					"course": "1117",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Beginner's College Chinese III",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A307",
+					"instructor": "Huimin Lin"
+				}
+			]
+		},
+		{
+			"course_id": "CHIN 1215",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30858",
+					"subject": "CHIN",
+					"course": "1215",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Beginner's College Chinese II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A307",
+					"instructor": "Huimin Lin"
+				}
+			]
+		},
+		{
+			"course_id": "CHIN 3331",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30859",
+					"subject": "CHIN",
+					"course": "3331",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Classical Chinese I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A339",
+					"instructor": "Rong Xin Li"
+				}
+			]
+		},
+		{
+			"course_id": "CHIN 3381",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30866",
+					"subject": "CHIN",
+					"course": "3381",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Chinese Lit in 20th Century I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A333",
+					"instructor": "Rong Xin Li"
+				}
+			]
+		},
+		{
+			"course_id": "CHIN 3383",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30869",
+					"subject": "CHIN",
+					"course": "3383",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Chinese Lit in 20th Century II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A321",
+					"instructor": "Tianming Li"
+				}
+			]
+		}
+	]
+}

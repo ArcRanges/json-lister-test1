@@ -1,0 +1,108 @@
+{
+	"courses":[
+		{
+			"course_id": "BCAP 1200",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30777",
+					"subject": "BCAP",
+					"course": "1200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Computer Applns I",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L103",
+					"instructor": "Naila Nizar"
+				}
+			]
+		},
+		{
+			"course_id": "BCAP 3100",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30791",
+					"subject": "BCAP",
+					"course": "3100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Computer Aplctns II",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L103",
+					"instructor": "Phil Mentacos"
+				}
+			]
+		},
+		{
+			"course_id": "BCAP 3200",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "34",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30792",
+					"subject": "BCAP",
+					"course": "3200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Information Systems",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L104",
+					"instructor": "Brent Kennedy"
+				}
+			]
+		},
+		{
+			"course_id": "BCAP 4820",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "0",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31192",
+					"subject": "BCAP",
+					"course": "4820",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Information Systems",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L104",
+					"instructor": "Brent Kennedy"
+				}
+			]
+		}
+	]
+}

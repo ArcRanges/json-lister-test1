@@ -1,0 +1,238 @@
+{
+	"courses":[
+		{
+			"course_id": "ECON 1119",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30711",
+					"subject": "ECON",
+					"course": "1119",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Canadian Domestic & Intl Issue",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B027",
+					"instructor": "Zafrul Siddique"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 1220",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "120",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30712",
+					"subject": "ECON",
+					"course": "1220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Principles of Microeconomics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A130",
+					"instructor": "Josephine Pascuzzi"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 1221",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "120",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30721",
+					"subject": "ECON",
+					"course": "1221",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Principles of Macroeconomics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A130",
+					"instructor": "Bryan Breguet"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 2260",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30728",
+					"subject": "ECON",
+					"course": "2260",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Environmental Economics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 2280",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31130",
+					"subject": "ECON",
+					"course": "2280",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Labour Economics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B153",
+					"instructor": "Bryan Breguet"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 2296",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30729",
+					"subject": "ECON",
+					"course": "2296",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Managerial Economics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A363",
+					"instructor": "Josephine Pascuzzi"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 2298",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30730",
+					"subject": "ECON",
+					"course": "2298",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Econ of Cptl Assts & Prjct Evl",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B031",
+					"instructor": "Margaret Evans"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30731",
+					"subject": "ECON",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Microeconomics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B023",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "ECON 4810",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30732",
+					"subject": "ECON",
+					"course": "4810",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Macroeconomics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A210",
+					"instructor": "Scott McLean"
+				}
+			]
+		}
+	]
+}

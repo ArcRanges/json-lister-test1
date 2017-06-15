@@ -1,0 +1,368 @@
+{
+	"courses":[
+		{
+			"course_id": "KINS 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30795",
+					"subject": "KINS",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Biodynamics Physical Activity",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109",
+					"instructor": "Brent Day"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 1103",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30802",
+					"subject": "KINS",
+					"course": "1103",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Active Health",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G103",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 1151",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30811",
+					"subject": "KINS",
+					"course": "1151",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Biomechanics l",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109A",
+					"instructor": "Dana Maslovat"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 1161",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31188",
+					"subject": "KINS",
+					"course": "1161",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Leisure & Sport in Society",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Jennifer Megan Brousseau"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 1190",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30826",
+					"subject": "KINS",
+					"course": "1190",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Anatomy & Physiology I",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109",
+					"instructor": "Leslie Horita"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 1191",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30829",
+					"subject": "KINS",
+					"course": "1191",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Anatomy & Physiology ll",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109",
+					"instructor": "Janice Meier"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2230",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30830",
+					"subject": "KINS",
+					"course": "2230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Human Motor Behaviour I",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T001",
+					"instructor": "Anne Muscat"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2231",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30832",
+					"subject": "KINS",
+					"course": "2231",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Sport & Exercise Psychology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109A",
+					"instructor": "Anne Muscat"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2252",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30834",
+					"subject": "KINS",
+					"course": "2252",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Contemporary Health Issues",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A314",
+					"instructor": "Harry Lendvoy"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2261",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31190",
+					"subject": "KINS",
+					"course": "2261",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Health Policy & Society",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G103",
+					"instructor": "Jennifer Megan Brousseau"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2275",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30809",
+					"subject": "KINS",
+					"course": "2275",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Exercise Physiology",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T515",
+					"instructor": "Ryan Cawsey"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2284",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30835",
+					"subject": "KINS",
+					"course": "2284",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Growth & Development",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109A",
+					"instructor": "Susan Todd"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 2361",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30810",
+					"subject": "KINS",
+					"course": "2361",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Sports Medicine",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "G109",
+					"instructor": "Harry Lendvoy"
+				}
+			]
+		},
+		{
+			"course_id": "KINS 3303",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30837",
+					"subject": "KINS",
+					"course": "3303",
+					"section": "001",
+					"credits": "3.00",
+					"title": "High Perf Strength & Condtng",
+					"fees": "$25.95",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T515",
+					"instructor": "Carmen Bott"
+				}
+			]
+		}
+	]
+}

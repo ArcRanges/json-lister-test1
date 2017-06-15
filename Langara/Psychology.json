@@ -1,0 +1,290 @@
+{
+	"courses":[
+		{
+			"course_id": "PSYC 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "120",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30436",
+					"subject": "PSYC",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro Biol, Cogn & Dev",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A130",
+					"instructor": "Susan Numerow"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 1215",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "120",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30451",
+					"subject": "PSYC",
+					"course": "1215",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro Soc, Pers & Abnorm",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A130",
+					"instructor": "Valerie Lloyd"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2318",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "28",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30487",
+					"subject": "PSYC",
+					"course": "2318",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Psych of the Exceptional Child",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B031",
+					"instructor": "Noushine Afshar"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2320",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30495",
+					"subject": "PSYC",
+					"course": "2320",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Research Methods in Psychology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B149",
+					"instructor": "Ross Woolley"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2321",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30497",
+					"subject": "PSYC",
+					"course": "2321",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Data Analysis for Psychology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B149",
+					"instructor": "Deyar Asmaro"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2322",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "72",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30498",
+					"subject": "PSYC",
+					"course": "2322",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Social Psychology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T001",
+					"instructor": "Jennifer Poole"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2324",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30501",
+					"subject": "PSYC",
+					"course": "2324",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Dvmtl Psyc (Early Childhood)",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B149",
+					"instructor": "Susan Numerow"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2326",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "72",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30502",
+					"subject": "PSYC",
+					"course": "2326",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Psychological Disorders",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122A",
+					"instructor": "Antonia Henderson"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 2341",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30522",
+					"subject": "PSYC",
+					"course": "2341",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cognitive Psychology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B029",
+					"instructor": "Valerie Lloyd"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 3220",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30523",
+					"subject": "PSYC",
+					"course": "3220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Group Dynamics",
+					"fees": "$22.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B032",
+					"instructor": "James Barton"
+				}
+			]
+		},
+		{
+			"course_id": "PSYC 3230",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30524",
+					"subject": "PSYC",
+					"course": "3230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Psychology and Culture",
+					"fees": "$22.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B149",
+					"instructor": "Troy Chenier"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"courses":[
+		{
+			"course_id": "RELS 1220",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31143",
+					"subject": "RELS",
+					"course": "1220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Religions of the West",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B021",
+					"instructor": "Timothy Stevenson"
+				}
+			]
+		}
+	]
+}

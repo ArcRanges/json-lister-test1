@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "LAMS 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31039",
+					"subject": "LAMS",
+					"course": "1100",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Intro to Latin America",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "B248",
+					"instructor": "Cassandra Bill, Ginette Dube, Jessie Smith"
+				}
+			]
+		},
+		{
+			"course_id": "LAMS 2206",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31040",
+					"subject": "LAMS",
+					"course": "2206",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Ltn Amrca in a Gblzd World",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Jessie Smith"
+				}
+			]
+		}
+	]
+}

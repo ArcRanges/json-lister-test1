@@ -1,0 +1,290 @@
+{
+	"courses":[
+		{
+			"course_id": "GEOG 1110",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30469",
+					"subject": "GEOG",
+					"course": "1110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Human Geography",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122A",
+					"instructor": "Jenny Francis"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 1120",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30471",
+					"subject": "GEOG",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Regional Geography of Canada",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122A",
+					"instructor": "Victoria Hodson"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 1130",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30473",
+					"subject": "GEOG",
+					"course": "1130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Urban Geography",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Craig Jones"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 1150",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30475",
+					"subject": "GEOG",
+					"course": "1150",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Geography of British Columbia",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Katrina Erdos"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 1155",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30476",
+					"subject": "GEOG",
+					"course": "1155",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Environmental Geography",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136A",
+					"instructor": "Katrina Erdos"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 1180",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "34",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30477",
+					"subject": "GEOG",
+					"course": "1180",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Phys Geog:Meteor,Climat, & Bio",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122B",
+					"instructor": "Andrew Egan"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 1190",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "34",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30483",
+					"subject": "GEOG",
+					"course": "1190",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Phys Geog:Geomorphology",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A229",
+					"instructor": "Mark Smith"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 2210",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30488",
+					"subject": "GEOG",
+					"course": "2210",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Geographic Techniques",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A231",
+					"instructor": "Andrew Egan"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 2250",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30489",
+					"subject": "GEOG",
+					"course": "2250",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Economic Geography",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A229",
+					"instructor": "Jenny Francis"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 2270",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30490",
+					"subject": "GEOG",
+					"course": "2270",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cultural Geography",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A350",
+					"instructor": "Colin Mills"
+				}
+			]
+		},
+		{
+			"course_id": "GEOG 2290",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30491",
+					"subject": "GEOG",
+					"course": "2290",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Geomorphology",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A229",
+					"instructor": "Mark Smith"
+				}
+			]
+		}
+	]
+}

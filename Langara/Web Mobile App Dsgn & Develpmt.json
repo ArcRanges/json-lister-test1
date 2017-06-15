@@ -1,0 +1,628 @@
+{
+	"courses":[
+		{
+			"course_id": "WMDD 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31054",
+					"subject": "WMDD",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Graphic Design for Web",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1330-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Jesica Ortega Nava"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4805",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31055",
+					"subject": "WMDD",
+					"course": "4805",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Intro to Raster Graphics",
+					"fees": "$20.80",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0830-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Josue Menjivar"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4810",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31056",
+					"subject": "WMDD",
+					"course": "4810",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Intro to Vector Graphics",
+					"fees": "$20.80",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Josue Menjivar"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4815",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31057",
+					"subject": "WMDD",
+					"course": "4815",
+					"section": "001",
+					"credits": "3.00",
+					"title": "HTML/CSS I",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1430-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Jordan Miller"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4820",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31058",
+					"subject": "WMDD",
+					"course": "4820",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Web Programming",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": ""
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4825",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31059",
+					"subject": "WMDD",
+					"course": "4825",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro User Experience Design",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0830-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": "Jesica Ortega Nava"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4900",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31060",
+					"subject": "WMDD",
+					"course": "4900",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Graphics Design",
+					"fees": "$52.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1130-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Jesica Ortega Nava"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4905",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31062",
+					"subject": "WMDD",
+					"course": "4905",
+					"section": "001",
+					"credits": "3.00",
+					"title": "3D Design & Prototyping",
+					"fees": "$127.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-----S-",
+					"time": "0930-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Nathan McNinch"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4910",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31063",
+					"subject": "WMDD",
+					"course": "4910",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Graphics Techniques",
+					"fees": "$51.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Jesica Ortega Nava"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4915",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31064",
+					"subject": "WMDD",
+					"course": "4915",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Audio/Video Production",
+					"fees": "$76.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1730-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Sara McIntyre"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4920",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31065",
+					"subject": "WMDD",
+					"course": "4920",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Introduction to Databases",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1330-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": "Reza Abbasi"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4925",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31067",
+					"subject": "WMDD",
+					"course": "4925",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced User Experience Dsgn",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0930-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4930",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31069",
+					"subject": "WMDD",
+					"course": "4930",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Objct-Orntd Dsgn & Programming",
+					"fees": "$52.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1130-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": "Reza Abbasi"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4935",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31071",
+					"subject": "WMDD",
+					"course": "4935",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Server-Side Scripting",
+					"fees": "$36.40",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1630-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": "Nathan McNinch"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4940",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31073",
+					"subject": "WMDD",
+					"course": "4940",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Native Android App Development",
+					"fees": "$51.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0930-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B014",
+					"instructor": "Reza Abbasi"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4945",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31074",
+					"subject": "WMDD",
+					"course": "4945",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Native iOS App Development",
+					"fees": "$127.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0930-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "",
+					"instructor": "Reza Abbasi"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4950",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31075",
+					"subject": "WMDD",
+					"course": "4950",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Security & Cloud & Server Admn",
+					"fees": "$76.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-----S-",
+					"time": "0930-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": "Mohsen Hajiloo"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4960",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31076",
+					"subject": "WMDD",
+					"course": "4960",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Busn Strategies for Crea Tech",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B018",
+					"instructor": "Stephane Guerraz"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4965",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31078",
+					"subject": "WMDD",
+					"course": "4965",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Social Media Strategy",
+					"fees": "$35.70",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1330-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A315",
+					"instructor": "Jarrett Vaughan"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4980",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31079",
+					"subject": "WMDD",
+					"course": "4980",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Project 2",
+					"fees": "$72.80",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1430-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A266",
+					"instructor": "Josue Menjivar"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4985",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31081",
+					"subject": "WMDD",
+					"course": "4985",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Capstone Project",
+					"fees": "$107.10",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1430-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B251",
+					"instructor": "Josue Menjivar, Reza Abbasi"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4990",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31082",
+					"subject": "WMDD",
+					"course": "4990",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Industry Topics I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T513",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4995",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31084",
+					"subject": "WMDD",
+					"course": "4995",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Industry Topics II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T513",
+					"instructor": "Nathan McNinch"
+				}
+			]
+		},
+		{
+			"course_id": "WMDD 4999",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31085",
+					"subject": "WMDD",
+					"course": "4999",
+					"section": "001",
+					"credits": "1.50",
+					"title": "Special Topics",
+					"fees": "$35.70",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1630-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "",
+					"instructor": "Reza Abbasi"
+				}
+			]
+		}
+	]
+}

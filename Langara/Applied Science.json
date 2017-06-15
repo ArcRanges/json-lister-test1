@@ -1,0 +1,82 @@
+{
+	"courses":[
+		{
+			"course_id": "APSC 1000",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "66",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30638",
+					"subject": "APSC",
+					"course": "1000",
+					"section": "001",
+					"credits": "0.00",
+					"title": "Introduction to Engineering I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": "Csilla Tamas"
+				}
+			]
+		},
+		{
+			"course_id": "APSC 1010",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30639",
+					"subject": "APSC",
+					"course": "1010",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Engineering & Tech in Society",
+					"fees": "$15.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A352",
+					"instructor": "Pooya Taheri"
+				}
+			]
+		},
+		{
+			"course_id": "APSC 1050",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30641",
+					"subject": "APSC",
+					"course": "1050",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Process, Form & Cvn Prof Genre",
+					"fees": "$15.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W-F--",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A314",
+					"instructor": "Jacqueline Nelsen"
+				}
+			]
+		}
+	]
+}

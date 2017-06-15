@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "SCIE 1113",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30084",
+					"subject": "SCIE",
+					"course": "1113",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Intensive Science Literacy",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-TW-F--",
+					"time": "1530-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T533",
+					"instructor": "Patricia Aroca-Ouellette"
+				}
+			]
+		},
+		{
+			"course_id": "SCIE 1114",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31179",
+					"subject": "SCIE",
+					"course": "1114",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Science Literacy",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--WRF--",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T538",
+					"instructor": "Nathan Jones"
+				}
+			]
+		}
+	]
+}

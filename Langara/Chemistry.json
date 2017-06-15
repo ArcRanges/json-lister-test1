@@ -1,0 +1,238 @@
+{
+	"courses":[
+		{
+			"course_id": "CHEM 1114",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30021",
+					"subject": "CHEM",
+					"course": "1114",
+					"section": "001",
+					"credits": "4.00",
+					"title": "An Introduction to Chemistry",
+					"fees": "$25.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--WR---",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T513",
+					"instructor": "Andrew Mosi"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 1117",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30033",
+					"subject": "CHEM",
+					"course": "1117",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Envir Chem for Arts Majors I",
+					"fees": "$25.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T533",
+					"instructor": "Kelly Sveinson"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 1118",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30038",
+					"subject": "CHEM",
+					"course": "1118",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Intermediate Chemistry",
+					"fees": "$25.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T537",
+					"instructor": "Chiwei Hu"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 1120",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30044",
+					"subject": "CHEM",
+					"course": "1120",
+					"section": "001",
+					"credits": "4.00",
+					"title": "General Chemistry I",
+					"fees": "$25.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T537",
+					"instructor": "James Rolke"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 1154",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30056",
+					"subject": "CHEM",
+					"course": "1154",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Engineering Chemistry",
+					"fees": "$15.90",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T537",
+					"instructor": "J. Todd Stuckless"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 1220",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30067",
+					"subject": "CHEM",
+					"course": "1220",
+					"section": "001",
+					"credits": "4.00",
+					"title": "General Chemistry II",
+					"fees": "$25.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-WR---",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T537",
+					"instructor": "Yanguo Yang"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 2222",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30072",
+					"subject": "CHEM",
+					"course": "2222",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Analytical Chemistry",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-TWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T533",
+					"instructor": "Andrew Mosi"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 2250",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30074",
+					"subject": "CHEM",
+					"course": "2250",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Physical Chem for the Life Scs",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C410",
+					"instructor": "Yanguo Yang"
+				}
+			]
+		},
+		{
+			"course_id": "CHEM 2316",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30080",
+					"subject": "CHEM",
+					"course": "2316",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Organic Chemistry I",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-TWRF--",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T533",
+					"instructor": "Shirley Wacowich-Sgarbi"
+				}
+			]
+		}
+	]
+}

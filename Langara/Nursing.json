@@ -1,0 +1,784 @@
+{
+	"courses":[
+		{
+			"course_id": "NURS 1103",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "8",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30585",
+					"subject": "NURS",
+					"course": "1103",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "LPN Bridging Course",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L215",
+					"instructor": "Patrick de Sousa"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 1104",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "8",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30586",
+					"subject": "NURS",
+					"course": "1104",
+					"section": "001",
+					"credits": "5.00",
+					"title": "Bridge in Clinical Practice",
+					"fees": "$41.40",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-TW----",
+					"time": "0730-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Janet Dong"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 1109",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30587",
+					"subject": "NURS",
+					"course": "1109",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Health I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C509",
+					"instructor": "Susan Calvert"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 1121",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30589",
+					"subject": "NURS",
+					"course": "1121",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Professional Growth I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Reyla Lopez"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 1130",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30591",
+					"subject": "NURS",
+					"course": "1130",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Self & Others I: Awareness",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T315",
+					"instructor": "Sharon Liversidge"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 1160",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30593",
+					"subject": "NURS",
+					"course": "1160",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Nursing Skills I: Hlth Assmt I",
+					"fees": "$41.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1330-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T334",
+					"instructor": "Wendy Low"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 1163",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30595",
+					"subject": "NURS",
+					"course": "1163",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Nursing Prac I: Ind as Client",
+					"fees": "$41.65",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "0730-0820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Susan Calvert"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2109",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30597",
+					"subject": "NURS",
+					"course": "2109",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Healing I: Adult Health & Heal",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Laura Cottrell"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2160",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30599",
+					"subject": "NURS",
+					"course": "2160",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Nrsng Skills III: Hlng Assmt I",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T334",
+					"instructor": "Kelly Hughes"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2161",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30601",
+					"subject": "NURS",
+					"course": "2161",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Nurs Knowlge II: Nur Care Adul",
+					"fees": "$41.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Sharon Stunder"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2163",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30603",
+					"subject": "NURS",
+					"course": "2163",
+					"section": "001",
+					"credits": "5.00",
+					"title": "NRSG Prac III: Adult Client I",
+					"fees": "$41.00",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-TW----",
+					"time": "0730-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Roseller Ofreneo, Katherine Gavino, Laura Cottrell, Myra Percy, Sharon Stunder"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2209",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "38",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30605",
+					"subject": "NURS",
+					"course": "2209",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Healing II: Adu Hlth & Heal II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C508",
+					"instructor": "Lanie Fajardo"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2260",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "38",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30607",
+					"subject": "NURS",
+					"course": "2260",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Nrsng Skills IV: Hlng Assmt II",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0830-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T334",
+					"instructor": "William Konn"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2261",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "38",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30609",
+					"subject": "NURS",
+					"course": "2261",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "NRSG Knowl III: NRS Care Adult",
+					"fees": "$41.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T315",
+					"instructor": "Wanda Pierson"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 2263",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "38",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30611",
+					"subject": "NURS",
+					"course": "2263",
+					"section": "001",
+					"credits": "5.00",
+					"title": "NRSG Prac IV: Adul as Clien II",
+					"fees": "$41.00",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-TW----",
+					"time": "0730-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Heather Anderson, Heather-Anne Hume, Sarah Reeves, Wanda Pierson, William Konn"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3209",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30613",
+					"subject": "NURS",
+					"course": "3209",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Health III:Family and Pop Hlth",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C508",
+					"instructor": "Patricia Wallace"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3261",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30615",
+					"subject": "NURS",
+					"course": "3261",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Nsg Knw V:Care Inf,Chd,Yng Adu",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---RF--",
+					"time": "0830-1120",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "11-Oct-17",
+					"room": "C410",
+					"instructor": "Cristina Follador"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3262",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30617",
+					"subject": "NURS",
+					"course": "3262",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Nsg Knw VI: Care Fam & Newborn",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---RF--",
+					"time": "0830-1120",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "11-Oct-17",
+					"room": "T315",
+					"instructor": "Hana Pecinova"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3264",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30619",
+					"subject": "NURS",
+					"course": "3264",
+					"section": "A01",
+					"credits": "2.50",
+					"title": "Nrsng Prc VI(A): Family and NB",
+					"fees": "$20.90",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-TW----",
+					"time": "0730-1520",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "11-Oct-17",
+					"room": "OFFC",
+					"instructor": "Karen McColgan, Hana Pecinova, Manpreet Mann-Mattoo, Melinda Litynsky, Nancy Woo"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3265",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30621",
+					"subject": "NURS",
+					"course": "3265",
+					"section": "A01",
+					"credits": "2.50",
+					"title": "Nrsng Prc VI(B): Inft/Chld/Yth",
+					"fees": "$20.90",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-TW----",
+					"time": "0730-1520",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "11-Oct-17",
+					"room": "OFFC",
+					"instructor": "Helen Jackson, Baljit Khun-Khun, Erika McQuillen, Mary Peters, Shannon Johnson"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3309",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30624",
+					"subject": "NURS",
+					"course": "3309",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Health IV: Community Health",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C509",
+					"instructor": "Pauline Sumel"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3330",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30626",
+					"subject": "NURS",
+					"course": "3330",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Slf & Othrs III:Wrkpl Int-Pfsm",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Asha Kooner"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3361",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30628",
+					"subject": "NURS",
+					"course": "3361",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Nsg Knw VII:Leadersh & Manage",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C509",
+					"instructor": "Sarojni Rajakumar"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 3363",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30630",
+					"subject": "NURS",
+					"course": "3363",
+					"section": "001",
+					"credits": "5.00",
+					"title": "Nrsng Prc VII: Pop as Client",
+					"fees": "$42.60",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-TW----",
+					"time": "0730-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Asha Kooner, Anne-Marie Hummelman, Gregory Slawson, Pauline Sumel, Sarojni Rajakumar"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 4265",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "38",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30687",
+					"subject": "NURS",
+					"course": "4265",
+					"section": "M01",
+					"credits": "12.00",
+					"title": "Nrsg Prac IX: Tran to Nrsg Pra",
+					"fees": "$87.70",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": "Janine Lennox"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 4810",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "51",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31200",
+					"subject": "NURS",
+					"course": "4810",
+					"section": "001",
+					"credits": "0.00",
+					"title": "Dvrsty & Inclusion in Work I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Tutorial",
+					"days": "-------",
+					"time": "1300-1600",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": "Cat Martin"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 5110",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30632",
+					"subject": "NURS",
+					"course": "5110",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Nrsg Profssn & Health Care I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C509",
+					"instructor": "Kelly Negrin"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 5115",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30633",
+					"subject": "NURS",
+					"course": "5115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Clinical Skills Lab I",
+					"fees": "$40.25",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0830-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T334",
+					"instructor": "Patrick de Sousa"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 5130",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "17",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30634",
+					"subject": "NURS",
+					"course": "5130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Professional Communication I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C509",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "NURS 5135",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30636",
+					"subject": "NURS",
+					"course": "5135",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Crit Thinking & Decis Making I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C509",
+					"instructor": "Myra Percy"
+				}
+			]
+		}
+	]
+}

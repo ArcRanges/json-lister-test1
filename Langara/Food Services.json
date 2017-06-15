@@ -1,0 +1,108 @@
+{
+	"courses":[
+		{
+			"course_id": "FSRV 1113",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "0",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30814",
+					"subject": "FSRV",
+					"course": "1113",
+					"section": "AX1",
+					"credits": "3.00",
+					"title": "Food Service Systems",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Flexible Assessment",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "WWW",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "FSRV 3114",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30816",
+					"subject": "FSRV",
+					"course": "3114",
+					"section": "AW1",
+					"credits": "3.00",
+					"title": "Food Prod - Stndrds of Qlty I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "WWW",
+					"instructor": "Janice Sorensen, Michelle Shepherd"
+				}
+			]
+		},
+		{
+			"course_id": "FSRV 3214",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30817",
+					"subject": "FSRV",
+					"course": "3214",
+					"section": "BW1",
+					"credits": "3.00",
+					"title": "Food Prod- Strd Qlty II Recipe",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "23-Oct-17",
+					"non_standard_end": "30-Nov-17",
+					"room": "WWW",
+					"instructor": "Janice Sorensen, Michelle Shepherd"
+				}
+			]
+		},
+		{
+			"course_id": "FSRV 4324",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30818",
+					"subject": "FSRV",
+					"course": "4324",
+					"section": "W01",
+					"credits": "3.00",
+					"title": "Quality Food Production",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Janice Sorensen"
+				}
+			]
+		}
+	]
+}

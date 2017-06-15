@@ -1,0 +1,108 @@
+{
+	"courses":[
+		{
+			"course_id": "FREN 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30870",
+					"subject": "FREN",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's French I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A321",
+					"instructor": "Frederic Jombart"
+				}
+			]
+		},
+		{
+			"course_id": "FREN 1117",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30881",
+					"subject": "FREN",
+					"course": "1117",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate French I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A308",
+					"instructor": "Frederic Jombart"
+				}
+			]
+		},
+		{
+			"course_id": "FREN 1119",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30883",
+					"subject": "FREN",
+					"course": "1119",
+					"section": "001",
+					"credits": "3.00",
+					"title": "French Lang & Literature I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A315",
+					"instructor": "Farah Leplat"
+				}
+			]
+		},
+		{
+			"course_id": "FREN 1215",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30884",
+					"subject": "FREN",
+					"course": "1215",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's French II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A322",
+					"instructor": "Farah Leplat"
+				}
+			]
+		}
+	]
+}

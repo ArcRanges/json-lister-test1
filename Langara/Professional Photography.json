@@ -1,0 +1,316 @@
+{
+	"courses":[
+		{
+			"course_id": "PHOT 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30258",
+					"subject": "PHOT",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Photographic Explorations",
+					"fees": "$109.70",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MT-R---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T530",
+					"instructor": "Catharine O'Brien-Bell"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 1105",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "14",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30261",
+					"subject": "PHOT",
+					"course": "1105",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Technical Photography I",
+					"fees": "$81.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A250",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 1110",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "14",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30263",
+					"subject": "PHOT",
+					"course": "1110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Studio Lighting I",
+					"fees": "$81.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Catharine O'Brien-Bell"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 1120",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "28",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30265",
+					"subject": "PHOT",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Creativity and Ideation",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A306",
+					"instructor": "Terry Van Roon, . TBA"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 1125",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "28",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30266",
+					"subject": "PHOT",
+					"course": "1125",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Digital Workflow",
+					"fees": "$81.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A254",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 1150",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30268",
+					"subject": "PHOT",
+					"course": "1150",
+					"section": "001",
+					"credits": "1.00",
+					"title": "History of Photography Lab",
+					"fees": "$122.40",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0930-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Tomo Tanaka"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 1190",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "28",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30269",
+					"subject": "PHOT",
+					"course": "1190",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Photographic Industry Topics I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1530-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": ""
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 2305",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "21",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30271",
+					"subject": "PHOT",
+					"course": "2305",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Portrait Photography",
+					"fees": "$81.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1330-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Eric Stewart"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 2310",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "21",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30272",
+					"subject": "PHOT",
+					"course": "2310",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Commercial Photography",
+					"fees": "$81.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 2320",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "21",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30274",
+					"subject": "PHOT",
+					"course": "2320",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Documentary Photography",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1400-1450",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Les Bazso"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 2325",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "21",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30275",
+					"subject": "PHOT",
+					"course": "2325",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Digital Imaging II",
+					"fees": "$81.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A254",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "PHOT 2420",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "21",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30276",
+					"subject": "PHOT",
+					"course": "2420",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Sml Business for Photographers",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A267",
+					"instructor": ". TBA"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "LIBR 1111",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30843",
+					"subject": "LIBR",
+					"course": "1111",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Online Search & Info Handling",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C212",
+					"instructor": "Diane Thompson"
+				}
+			]
+		},
+		{
+			"course_id": "LIBR 1118",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30845",
+					"subject": "LIBR",
+					"course": "1118",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Techniques I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Dale West"
+				}
+			]
+		},
+		{
+			"course_id": "LIBR 1120",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30847",
+					"subject": "LIBR",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Philosophy & Functions",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Guy Robertson"
+				}
+			]
+		},
+		{
+			"course_id": "LIBR 2328",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30851",
+					"subject": "LIBR",
+					"course": "2328",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Subj Analysis & Classification",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Dale West"
+				}
+			]
+		},
+		{
+			"course_id": "LIBR 2411",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30849",
+					"subject": "LIBR",
+					"course": "2411",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Library Tech & Info Mngmnt",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": ""
+				}
+			]
+		},
+		{
+			"course_id": "LIBR 2418",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30853",
+					"subject": "LIBR",
+					"course": "2418",
+					"section": "001",
+					"credits": "3.00",
+					"title": "RDA, MARC Cdn'g & Drv'd Catlg'",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Dale West"
+				}
+			]
+		}
+	]
+}

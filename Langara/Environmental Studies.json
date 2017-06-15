@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "ENVS 1105",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31035",
+					"subject": "ENVS",
+					"course": "1105",
+					"section": "001",
+					"credits": "0.00",
+					"title": "Environmental Studies Seminar",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": "Katrina Erdos"
+				}
+			]
+		},
+		{
+			"course_id": "ENVS 2100",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31036",
+					"subject": "ENVS",
+					"course": "2100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Appld Env Studies: CityStudio",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A314",
+					"instructor": ". TBA"
+				}
+			]
+		}
+	]
+}

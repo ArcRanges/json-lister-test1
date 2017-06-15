@@ -1,0 +1,30 @@
+{
+	"courses":[
+		{
+			"course_id": "FSIE 2000",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "1",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31117",
+					"subject": "FSIE",
+					"course": "2000",
+					"section": "F01",
+					"credits": "0.00",
+					"title": "Disney Field School",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Field School",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Sean Padley, Heather Workman"
+				}
+			]
+		}
+	]
+}

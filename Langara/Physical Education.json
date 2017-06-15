@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "PHED 1112",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30838",
+					"subject": "PHED",
+					"course": "1112",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Intro to Physical Fitness",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M---F--",
+					"time": "0800-0850",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "GYM",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "PHED 1118",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30841",
+					"subject": "PHED",
+					"course": "1118",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Healthy Lifestyles",
+					"fees": "$21.85",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0900-0950",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "GYM",
+					"instructor": ". TBA"
+				}
+			]
+		}
+	]
+}

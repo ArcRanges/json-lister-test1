@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "CLST 1110",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31029",
+					"subject": "CLST",
+					"course": "1110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Greek Civilization",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A365",
+					"instructor": "Jennifer Knapp, . TBA, Jessica Hemming"
+				}
+			]
+		},
+		{
+			"course_id": "CLST 2230",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31030",
+					"subject": "CLST",
+					"course": "2230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Alexander & the Hllnstc. World",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A334",
+					"instructor": "Jennifer Knapp"
+				}
+			]
+		}
+	]
+}

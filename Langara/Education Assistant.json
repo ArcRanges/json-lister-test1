@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "EDAS 1100",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30046",
+					"subject": "EDAS",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Behavioral Theory",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0900-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B009",
+					"instructor": "Erin Yorke"
+				}
+			]
+		},
+		{
+			"course_id": "EDAS 1110",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30047",
+					"subject": "EDAS",
+					"course": "1110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "The Process of Learning",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0900-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B009",
+					"instructor": "Jennifer Erickson"
+				}
+			]
+		},
+		{
+			"course_id": "EDAS 1111",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30051",
+					"subject": "EDAS",
+					"course": "1111",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Practicum I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Practicum",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Jennifer Erickson, Lu Allan"
+				}
+			]
+		},
+		{
+			"course_id": "EDAS 1120",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30048",
+					"subject": "EDAS",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "The EA Role in the Educ Systm",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0900-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B009",
+					"instructor": "Erin Yorke"
+				}
+			]
+		},
+		{
+			"course_id": "EDAS 1140",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30049",
+					"subject": "EDAS",
+					"course": "1140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Child & Adolscnt Dvlpt in Schl",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0900-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B009",
+					"instructor": "Lu Allan"
+				}
+			]
+		},
+		{
+			"course_id": "EDAS 1220",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30050",
+					"subject": "EDAS",
+					"course": "1220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Supporting Teamwork",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0900-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B009",
+					"instructor": "Jennifer Erickson"
+				}
+			]
+		}
+	]
+}

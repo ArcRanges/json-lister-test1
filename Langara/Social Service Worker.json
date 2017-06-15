@@ -1,0 +1,186 @@
+{
+	"courses":[
+		{
+			"course_id": "SSRV 1115",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30075",
+					"subject": "SSRV",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "History & Phil of Social Work",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Debra Nelson"
+				}
+			]
+		},
+		{
+			"course_id": "SSRV 1116",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30076",
+					"subject": "SSRV",
+					"course": "1116",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Social Service Methods I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Janet Douglas"
+				}
+			]
+		},
+		{
+			"course_id": "SSRV 1117",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30077",
+					"subject": "SSRV",
+					"course": "1117",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Social Problems",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MTW-F--",
+					"time": "1330-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Joseph Rosen"
+				}
+			]
+		},
+		{
+			"course_id": "SSRV 1118",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30078",
+					"subject": "SSRV",
+					"course": "1118",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Community Practice Skills",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Shelley Rivkin"
+				}
+			]
+		},
+		{
+			"course_id": "SSRV 1131",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30079",
+					"subject": "SSRV",
+					"course": "1131",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Social Service Field Work I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Joseph Rosen, Debra Nelson"
+				}
+			]
+		},
+		{
+			"course_id": "SSRV 1132",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30083",
+					"subject": "SSRV",
+					"course": "1132",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Integrated Experiential Lng I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0830-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Joseph Rosen, Janet Douglas"
+				}
+			]
+		},
+		{
+			"course_id": "SSRV 2000",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30085",
+					"subject": "SSRV",
+					"course": "2000",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro-Social Welfare in Canada",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Shelley Rivkin"
+				}
+			]
+		}
+	]
+}

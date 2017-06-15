@@ -1,0 +1,108 @@
+{
+	"courses":[
+		{
+			"course_id": "WMST 1116",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31043",
+					"subject": "WMST",
+					"course": "1116",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Invstgtg Women's Rlts: An Intr",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A215",
+					"instructor": "Nancy Pollak"
+				}
+			]
+		},
+		{
+			"course_id": "WMST 1216",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31045",
+					"subject": "WMST",
+					"course": "1216",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Explrg Women's Lives: An Intro",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A215",
+					"instructor": "Itrath Syed"
+				}
+			]
+		},
+		{
+			"course_id": "WMST 1230",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31047",
+					"subject": "WMST",
+					"course": "1230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Women and Popular Culture",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B248",
+					"instructor": "Itrath Syed"
+				}
+			]
+		},
+		{
+			"course_id": "WMST 2274",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31048",
+					"subject": "WMST",
+					"course": "2274",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Women & Sexuality",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A308",
+					"instructor": "Nancy Pollak"
+				}
+			]
+		}
+	]
+}

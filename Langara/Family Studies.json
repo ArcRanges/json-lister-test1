@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "FMST 1105",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31037",
+					"subject": "FMST",
+					"course": "1105",
+					"section": "001",
+					"credits": "0.00",
+					"title": "Lecture Series",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA, Daniel Nykon, Indira-Natasha Prahst"
+				}
+			]
+		},
+		{
+			"course_id": "FMST 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31038",
+					"subject": "FMST",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Perspectives on Family Studies",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1330-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A314",
+					"instructor": "Indira-Natasha Prahst, . TBA, Daniel Nykon"
+				}
+			]
+		}
+	]
+}

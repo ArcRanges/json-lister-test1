@@ -1,0 +1,602 @@
+{
+	"courses":[
+		{
+			"course_id": "FMGT 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30733",
+					"subject": "FMGT",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Accounting I",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B246",
+					"instructor": "Sze-Ching Yip"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 1116",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30744",
+					"subject": "FMGT",
+					"course": "1116",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Accounting for Managers",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B246",
+					"instructor": "Sze-Ching Yip"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 1215",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30747",
+					"subject": "FMGT",
+					"course": "1215",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Accounting II",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B153",
+					"instructor": "David Chan"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 1321",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30751",
+					"subject": "FMGT",
+					"course": "1321",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate Accounting I",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B031",
+					"instructor": "Peter Norwood"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2116",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30752",
+					"subject": "FMGT",
+					"course": "2116",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Personal Financial Planning I",
+					"fees": "$14.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C508",
+					"instructor": "Grant Mowbray"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2293",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30753",
+					"subject": "FMGT",
+					"course": "2293",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Accounting Overview",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B152",
+					"instructor": "Mumsy Ullattikulam"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2294",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30755",
+					"subject": "FMGT",
+					"course": "2294",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Managerial Accounting Overview",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B247",
+					"instructor": "Peter Norwood"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2308",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30758",
+					"subject": "FMGT",
+					"course": "2308",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Accounting Computer Applcns",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L104",
+					"instructor": "Mumsy Ullattikulam"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2325",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30759",
+					"subject": "FMGT",
+					"course": "2325",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Taxation",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A346",
+					"instructor": "Mumsy Ullattikulam"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2371",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30760",
+					"subject": "FMGT",
+					"course": "2371",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Management I",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B031",
+					"instructor": "Aziz Rajwani"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2421",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30761",
+					"subject": "FMGT",
+					"course": "2421",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate Accounting II",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A348",
+					"instructor": "Peter Norwood"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 2474",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30762",
+					"subject": "FMGT",
+					"course": "2474",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Management II",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Aziz Rajwani"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 3121",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30763",
+					"subject": "FMGT",
+					"course": "3121",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Financial Accounting",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B032",
+					"instructor": "Akash Rattan"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 3223",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30764",
+					"subject": "FMGT",
+					"course": "3223",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Management Accounting",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Alym Amlani"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 3263",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30765",
+					"subject": "FMGT",
+					"course": "3263",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Internal Control and Auditing",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Darren Taylor"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30766",
+					"subject": "FMGT",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Financial Accounting",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A348",
+					"instructor": "Vicky Cai"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4810",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30767",
+					"subject": "FMGT",
+					"course": "4810",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Managerial Accounting",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A374",
+					"instructor": "Vicky Cai"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4816",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30768",
+					"subject": "FMGT",
+					"course": "4816",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Accounting for Managers",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B251",
+					"instructor": "Jennifer Duffy"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4818",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30772",
+					"subject": "FMGT",
+					"course": "4818",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Advanced Management Acctg",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A363",
+					"instructor": "Peter Norwood"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4820",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30773",
+					"subject": "FMGT",
+					"course": "4820",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate Financial Accg I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A352",
+					"instructor": "Sze-Ching Yip"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4824",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30774",
+					"subject": "FMGT",
+					"course": "4824",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate Financial Accg II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A363",
+					"instructor": "Diana Leong"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4860",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30775",
+					"subject": "FMGT",
+					"course": "4860",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Management I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A352",
+					"instructor": "Alina McGuinness"
+				}
+			]
+		},
+		{
+			"course_id": "FMGT 4865",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30776",
+					"subject": "FMGT",
+					"course": "4865",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Financial Management II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A346",
+					"instructor": "Alina McGuinness"
+				}
+			]
+		}
+	]
+}

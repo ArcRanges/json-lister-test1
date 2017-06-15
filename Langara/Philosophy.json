@@ -1,0 +1,238 @@
+{
+	"courses":[
+		{
+			"course_id": "PHIL 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30662",
+					"subject": "PHIL",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Phil: Eth, Soc & Pol",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A347",
+					"instructor": "Alexander Boston"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 1101",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30668",
+					"subject": "PHIL",
+					"course": "1101",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Phil: Knwldg & Rlty",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B149",
+					"instructor": "Katharine Browne"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 1102",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30672",
+					"subject": "PHIL",
+					"course": "1102",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Logic",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": "Rana Ahmad"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 1104",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30674",
+					"subject": "PHIL",
+					"course": "1104",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Critical Thinking",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B027",
+					"instructor": "Richard Johns"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 1105",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30675",
+					"subject": "PHIL",
+					"course": "1105",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Biomedical Ethics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1230-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T530",
+					"instructor": "John Russell"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 1125",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30676",
+					"subject": "PHIL",
+					"course": "1125",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Ancient Philosophy",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A321",
+					"instructor": "Alexander Boston"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 1140",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30677",
+					"subject": "PHIL",
+					"course": "1140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Philosophy of Religion",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A374",
+					"instructor": "Richard Johns"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 2202",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31052",
+					"subject": "PHIL",
+					"course": "2202",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Ethics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A348",
+					"instructor": "Katharine Browne"
+				}
+			]
+		},
+		{
+			"course_id": "PHIL 3200",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30678",
+					"subject": "PHIL",
+					"course": "3200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Critical Thinking & Bsns Ethic",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136B",
+					"instructor": "Wayne Henry"
+				}
+			]
+		}
+	]
+}

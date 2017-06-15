@@ -1,0 +1,186 @@
+{
+	"courses":[
+		{
+			"course_id": "EXPE 2300",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "34",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31096",
+					"subject": "EXPE",
+					"course": "2300",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Emplmnt Strtgs Crrnt Lbr Mrkt",
+					"fees": "$53.75",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L208",
+					"instructor": "Dionne Orrange"
+				}
+			]
+		},
+		{
+			"course_id": "EXPE 4801",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31099",
+					"subject": "EXPE",
+					"course": "4801",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Career Goals, Resumes & Cover",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C410",
+					"instructor": "Sue Hyun Yang"
+				}
+			]
+		},
+		{
+			"course_id": "EXPE 4802",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31105",
+					"subject": "EXPE",
+					"course": "4802",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Interviews and Your Prof Image",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B251",
+					"instructor": "Shelley-Anne Vidal"
+				}
+			]
+		},
+		{
+			"course_id": "EXPE 4803",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31108",
+					"subject": "EXPE",
+					"course": "4803",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Employment Search Strategies",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B253",
+					"instructor": "Natasha Mrkic-Subotic"
+				}
+			]
+		},
+		{
+			"course_id": "EXPE 4814",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31112",
+					"subject": "EXPE",
+					"course": "4814",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Work Experience Term - BUSM",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Hannah Yao"
+				}
+			]
+		},
+		{
+			"course_id": "EXPE 4824",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31115",
+					"subject": "EXPE",
+					"course": "4824",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Work Experience Term - APPL",
+					"fees": "$26.50",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Heather Workman"
+				}
+			]
+		},
+		{
+			"course_id": "EXPE 4834",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31116",
+					"subject": "EXPE",
+					"course": "4834",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Work Experience Term - WMDD",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "On Site Work",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Heather Workman"
+				}
+			]
+		}
+	]
+}

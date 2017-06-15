@@ -1,0 +1,420 @@
+{
+	"courses":[
+		{
+			"course_id": "CPSC 1030",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30089",
+					"subject": "CPSC",
+					"course": "1030",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Web Development I",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B023",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1045",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30095",
+					"subject": "CPSC",
+					"course": "1045",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro. to Web Programming",
+					"fees": "$29.25",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A350",
+					"instructor": "Jamie McKee-Scott"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1050",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30102",
+					"subject": "CPSC",
+					"course": "1050",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Computer Science",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A284",
+					"instructor": "Maryam Samiei"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1090",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30131",
+					"subject": "CPSC",
+					"course": "1090",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Engineering Graphics",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1550",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B023",
+					"instructor": "Sirine Maalej Ep Hadj Taieb"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1150",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30149",
+					"subject": "CPSC",
+					"course": "1150",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Program Design",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136B",
+					"instructor": "Hossein Darbandi"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1155",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30160",
+					"subject": "CPSC",
+					"course": "1155",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Program Design for Engineers",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B248",
+					"instructor": "Joe Huang"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1160",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30162",
+					"subject": "CPSC",
+					"course": "1160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Algrthms & Data Strctrs I",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C412",
+					"instructor": "Mingwu Chen"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1181",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30165",
+					"subject": "CPSC",
+					"course": "1181",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Object-Oriented Computing",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A352",
+					"instructor": "Gladys Monagan"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1280",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30168",
+					"subject": "CPSC",
+					"course": "1280",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Unix Tools and Scripting",
+					"fees": "$109.70",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T001",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1401",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30173",
+					"subject": "CPSC",
+					"course": "1401",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Computer Electronics",
+					"fees": "$109.70",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B010",
+					"instructor": "Ardeshir Bagheri"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 1480",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30183",
+					"subject": "CPSC",
+					"course": "1480",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Networking",
+					"fees": "$54.80",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Joe Huang"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 2030",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30190",
+					"subject": "CPSC",
+					"course": "2030",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Web Development II",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A374",
+					"instructor": "Kim Lam"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 2150",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30200",
+					"subject": "CPSC",
+					"course": "2150",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Algrthms & Data Strctrs II",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A346",
+					"instructor": "Gladys Monagan"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 2190",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30201",
+					"subject": "CPSC",
+					"course": "2190",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Theoretical Founds of Comp Sci",
+					"fees": "$30.30",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A306",
+					"instructor": "Mahdad Khatirinejad"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 2221",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30204",
+					"subject": "CPSC",
+					"course": "2221",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Database Systems",
+					"fees": "$109.70",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T001",
+					"instructor": "Hazra Imran"
+				}
+			]
+		},
+		{
+			"course_id": "CPSC 2810",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30209",
+					"subject": "CPSC",
+					"course": "2810",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cmptr & Info Security",
+					"fees": "$109.70",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B010",
+					"instructor": "Ardeshir Bagheri"
+				}
+			]
+		}
+	]
+}

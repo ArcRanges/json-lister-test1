@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "STAT 1123",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30342",
+					"subject": "STAT",
+					"course": "1123",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Basic Prob & Stats - Business",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B153",
+					"instructor": "Chien-Hsun Chang"
+				}
+			]
+		},
+		{
+			"course_id": "STAT 1124",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "72",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30395",
+					"subject": "STAT",
+					"course": "1124",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Statistical Methods I",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A136B",
+					"instructor": "Robin Susanto"
+				}
+			]
+		},
+		{
+			"course_id": "STAT 1181",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30410",
+					"subject": "STAT",
+					"course": "1181",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Descr & Elem Inferential Stats",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B152",
+					"instructor": "Michael Lo"
+				}
+			]
+		},
+		{
+			"course_id": "STAT 2225",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30414",
+					"subject": "STAT",
+					"course": "2225",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Inter Statistical Inference",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B254",
+					"instructor": "Yu-Ling Tsai"
+				}
+			]
+		},
+		{
+			"course_id": "STAT 3222",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "36",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30415",
+					"subject": "STAT",
+					"course": "3222",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intrmdt. Appld Stats for Bus.",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1830-2020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Chien-Hsun Chang"
+				}
+			]
+		},
+		{
+			"course_id": "STAT 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30418",
+					"subject": "STAT",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Statistics",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C508",
+					"instructor": "Kevin Craib"
+				}
+			]
+		}
+	]
+}

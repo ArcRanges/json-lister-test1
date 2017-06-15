@@ -1,0 +1,576 @@
+{
+	"courses":[
+		{
+			"course_id": "BUSM 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30349",
+					"subject": "BUSM",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Business in Canada",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B245",
+					"instructor": "Hong Chow"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 1115",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30359",
+					"subject": "BUSM",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Entrepreneurship",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B245",
+					"instructor": "Deland Jessop"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 1285",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30362",
+					"subject": "BUSM",
+					"course": "1285",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Law",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B253",
+					"instructor": "Oren Breitman"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 1500",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30367",
+					"subject": "BUSM",
+					"course": "1500",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Presentation Skills",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B254",
+					"instructor": "Jennifer Duffy"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 2115",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30373",
+					"subject": "BUSM",
+					"course": "2115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Human Resources Management",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B248",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 2200",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30376",
+					"subject": "BUSM",
+					"course": "2200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Organizational Behaviour",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B247",
+					"instructor": "Jane McCarthy"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 2450",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30382",
+					"subject": "BUSM",
+					"course": "2450",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Planning",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B253",
+					"instructor": "Stephane Guerraz"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 3000",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "0",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31149",
+					"subject": "BUSM",
+					"course": "3000",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Mngmt Prctcm",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Practicum",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Heather Workman, Jennifer Reid, Sean Padley"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 3001",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "1",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "31118",
+					"subject": "BUSM",
+					"course": "3001",
+					"section": "X01",
+					"credits": "3.00",
+					"title": "Disney World Work Experience",
+					"fees": "$28.70",
+					"repeat_limit": "-",
+					"type": "Flexible Assessment",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Sean Padley, Heather Workman"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 3200",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30383",
+					"subject": "BUSM",
+					"course": "3200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Operations Management",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B253",
+					"instructor": "Shervin Shahriari"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4100",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30384",
+					"subject": "BUSM",
+					"course": "4100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Project Management",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Phil Mentacos"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4120",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30385",
+					"subject": "BUSM",
+					"course": "4120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Organizations and Change",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B247",
+					"instructor": "Ronald Shay"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4200",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30386",
+					"subject": "BUSM",
+					"course": "4200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Strategic Management",
+					"fees": "$42.10",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B251",
+					"instructor": "Kevin James"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4300",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30388",
+					"subject": "BUSM",
+					"course": "4300",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Applied Business Project",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B023",
+					"instructor": "Danielle Rockel"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30390",
+					"subject": "BUSM",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Organizational Behaviour",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B247",
+					"instructor": "Ronald Shay"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4805",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30397",
+					"subject": "BUSM",
+					"course": "4805",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Professional Business Practice",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B251",
+					"instructor": "Pauline Greaves Aylward"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4810",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30402",
+					"subject": "BUSM",
+					"course": "4810",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Operations Management",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Shervin Shahriari"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4820",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30405",
+					"subject": "BUSM",
+					"course": "4820",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Negotiation Skills",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B252",
+					"instructor": "Pauline Greaves Aylward"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4830",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30417",
+					"subject": "BUSM",
+					"course": "4830",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Project Management",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Shervin Shahriari"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4840",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30421",
+					"subject": "BUSM",
+					"course": "4840",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Organizations and Change",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0830-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Marianne Gianacopoulos"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4850",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30424",
+					"subject": "BUSM",
+					"course": "4850",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Business Strategy",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1430-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B254",
+					"instructor": "Ivan Surjanovic"
+				}
+			]
+		},
+		{
+			"course_id": "BUSM 4885",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30710",
+					"subject": "BUSM",
+					"course": "4885",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Canadian Business Law",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B022",
+					"instructor": "Christopher Hardcastle"
+				}
+			]
+		}
+	]
+}

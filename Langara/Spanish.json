@@ -1,0 +1,82 @@
+{
+	"courses":[
+		{
+			"course_id": "SPAN 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30896",
+					"subject": "SPAN",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's Spanish I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A338",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "SPAN 1215",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30904",
+					"subject": "SPAN",
+					"course": "1215",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's Spanish II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A350",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "SPAN 2119",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30905",
+					"subject": "SPAN",
+					"course": "2119",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Spanish Language & Lit I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1330-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A266",
+					"instructor": "Laura Vass"
+				}
+			]
+		}
+	]
+}

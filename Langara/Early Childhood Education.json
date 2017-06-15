@@ -1,0 +1,420 @@
+{
+	"courses":[
+		{
+			"course_id": "ECED 1101",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30023",
+					"subject": "ECED",
+					"course": "1101",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Lang Arts for Young Child I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1430-1550",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Andrea James"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1104",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30024",
+					"subject": "ECED",
+					"course": "1104",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Explrng Env With Yng Child I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1300-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Andrea Dawson"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1108",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30025",
+					"subject": "ECED",
+					"course": "1108",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Creative Exp for Yng Child I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0900-1150",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Andrea James"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1115",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30026",
+					"subject": "ECED",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Foundations of Early Child Ed",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1030-1150",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Claude Painter"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1116",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30027",
+					"subject": "ECED",
+					"course": "1116",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Knowing the Individual Child",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1300-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Andrea Dawson"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1118",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30028",
+					"subject": "ECED",
+					"course": "1118",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Program Planning",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1150",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Andrea James"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1119",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30030",
+					"subject": "ECED",
+					"course": "1119",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Practicum I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Practicum",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Claude Painter"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1301",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30032",
+					"subject": "ECED",
+					"course": "1301",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Lang Arts for Young Child III",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1400-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Claude Painter"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1308",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30034",
+					"subject": "ECED",
+					"course": "1308",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Creative Envs for Yng Children",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1030-1150",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Carolyn Wing"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1315",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30035",
+					"subject": "ECED",
+					"course": "1315",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Devlpg & Supvsg EC Centres",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1230-1350",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Merle Viaud"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1318",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30036",
+					"subject": "ECED",
+					"course": "1318",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Eval & Individualizing Pgms",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0830-0950",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "Andrea Dawson"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1319",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30037",
+					"subject": "ECED",
+					"course": "1319",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Practicum III",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Practicum",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Andrea Dawson, Carolyn Wing, Claude Painter, Merle Viaud"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1325",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30039",
+					"subject": "ECED",
+					"course": "1325",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Health, Nutrition, & Safety",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1000-1150",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": "TBA"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 1329",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "8",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30040",
+					"subject": "ECED",
+					"course": "1329",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Infant & Toddler Practicum",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Practicum",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Claude Painter, Andrea James"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 2415",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30042",
+					"subject": "ECED",
+					"course": "2415",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to EC Special Education",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A283",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "ECED 2419",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "8",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30043",
+					"subject": "ECED",
+					"course": "2419",
+					"section": "001",
+					"credits": "3.00",
+					"title": "ECE:Special Education Prctm",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Practicum",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "OFFC",
+					"instructor": "Andrea Dawson"
+				}
+			]
+		}
+	]
+}

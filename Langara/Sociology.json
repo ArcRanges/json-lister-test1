@@ -1,0 +1,186 @@
+{
+	"courses":[
+		{
+			"course_id": "SOCI 1120",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30567",
+					"subject": "SOCI",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Soci: Models/Concepts",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B251",
+					"instructor": "Elic Chan"
+				}
+			]
+		},
+		{
+			"course_id": "SOCI 1121",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30574",
+					"subject": "SOCI",
+					"course": "1121",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Soci: Strctrs Prcss",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122B",
+					"instructor": "Karyn Eisler"
+				}
+			]
+		},
+		{
+			"course_id": "SOCI 1123",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30579",
+					"subject": "SOCI",
+					"course": "1123",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Animals & Society",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122A",
+					"instructor": "Karyn Eisler"
+				}
+			]
+		},
+		{
+			"course_id": "SOCI 1127",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30580",
+					"subject": "SOCI",
+					"course": "1127",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Social Problems",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Agnes MacDonald"
+				}
+			]
+		},
+		{
+			"course_id": "SOCI 2200",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30582",
+					"subject": "SOCI",
+					"course": "2200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Modern Sociol Thought",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A348",
+					"instructor": "Agnes MacDonald"
+				}
+			]
+		},
+		{
+			"course_id": "SOCI 2225",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30583",
+					"subject": "SOCI",
+					"course": "2225",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Crime, Pnshmt & Just-Hst Pspc",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A235",
+					"instructor": "Sandra Enns"
+				}
+			]
+		},
+		{
+			"course_id": "SOCI 2250",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30584",
+					"subject": "SOCI",
+					"course": "2250",
+					"section": "001",
+					"credits": "3.00",
+					"title": "The Sociology of the Family",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B008",
+					"instructor": "Indira-Natasha Prahst"
+				}
+			]
+		}
+	]
+}

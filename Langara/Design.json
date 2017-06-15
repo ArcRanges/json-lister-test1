@@ -1,0 +1,238 @@
+{
+	"courses":[
+		{
+			"course_id": "DSGN 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30186",
+					"subject": "DSGN",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Dsgn Explrtns: Typgrphy to Tat",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A322",
+					"instructor": "Peter Vysek"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 1151",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "18",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30187",
+					"subject": "DSGN",
+					"course": "1151",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Communication Design I",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--WR---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A108",
+					"instructor": "Marcela Noriega"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 1152",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "18",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30189",
+					"subject": "DSGN",
+					"course": "1152",
+					"section": "001",
+					"credits": "3.00",
+					"title": "3D Dsgn:Retail Visual Prsntn I",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A101",
+					"instructor": "Kevin Smith"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 1154",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "18",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30192",
+					"subject": "DSGN",
+					"course": "1154",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Form, Material and Process",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--WR---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A101",
+					"instructor": "Yvan Morissette"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 1253",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30194",
+					"subject": "DSGN",
+					"course": "1253",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Interior Spaces:Representation",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--WR---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A110",
+					"instructor": "Peter Vysek"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 1255",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "18",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30195",
+					"subject": "DSGN",
+					"course": "1255",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cmptr & Dsgn:Adobe Crtv Suite",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A247",
+					"instructor": "Scot Geib"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 2151",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30197",
+					"subject": "DSGN",
+					"course": "2151",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cmnctn Dsgn:Typography",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A108",
+					"instructor": "Terry Van Roon"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 2152",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30198",
+					"subject": "DSGN",
+					"course": "2152",
+					"section": "001",
+					"credits": "3.00",
+					"title": "3D Design: Exhibits & Events I",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A108",
+					"instructor": "Peter Vysek"
+				}
+			]
+		},
+		{
+			"course_id": "DSGN 2154",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30199",
+					"subject": "DSGN",
+					"course": "2154",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Career Research",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--WR---",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A109",
+					"instructor": "Kevin Smith"
+				}
+			]
+		}
+	]
+}

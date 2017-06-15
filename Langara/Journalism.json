@@ -1,0 +1,394 @@
+{
+	"courses":[
+		{
+			"course_id": "JOUR 1100",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30503",
+					"subject": "JOUR",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to the News Media",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-TW----",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A254",
+					"instructor": "Effie Klein"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1120",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30504",
+					"subject": "JOUR",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Journalism Research",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Erica Bulman, Kim Bolan"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1128",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30506",
+					"subject": "JOUR",
+					"course": "1128",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Fundamentals of Reporting",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Petti Fong"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1140",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30508",
+					"subject": "JOUR",
+					"course": "1140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Copy Editing",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-TW----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Barry Link"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1168",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30509",
+					"subject": "JOUR",
+					"course": "1168",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Photo Journalism",
+					"fees": "$146.25",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A254",
+					"instructor": "Les Bazso"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1177",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30510",
+					"subject": "JOUR",
+					"course": "1177",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Newspaper Design and Layout",
+					"fees": "$48.75",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Nicholas Read"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1178",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30511",
+					"subject": "JOUR",
+					"course": "1178",
+					"section": "001",
+					"credits": "5.00",
+					"title": "Multi-Media Production I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A226",
+					"instructor": "Nicholas Read, Erica Bulman"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1188",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30512",
+					"subject": "JOUR",
+					"course": "1188",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Media and Society I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1530-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A110",
+					"instructor": "Effie Klein"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 1298",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30514",
+					"subject": "JOUR",
+					"course": "1298",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Broadcasting I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Susan McNamee"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 2228",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30515",
+					"subject": "JOUR",
+					"course": "2228",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Journalism Law",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Kim Bolan"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 2278",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30516",
+					"subject": "JOUR",
+					"course": "2278",
+					"section": "001",
+					"credits": "6.00",
+					"title": "Multi-Media Production II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0930-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A226",
+					"instructor": "Erica Bulman, Alexandra Samur"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 2328",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30517",
+					"subject": "JOUR",
+					"course": "2328",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Journalism Ethics",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A226",
+					"instructor": "Petti Fong"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 2380",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30519",
+					"subject": "JOUR",
+					"course": "2380",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Civic Reporting",
+					"fees": "$31.20",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A254",
+					"instructor": "Frances Bula"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 2398",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30520",
+					"subject": "JOUR",
+					"course": "2398",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Broadcasting II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0830-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A225",
+					"instructor": "Effie Klein"
+				}
+			]
+		},
+		{
+			"course_id": "JOUR 2458",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30521",
+					"subject": "JOUR",
+					"course": "2458",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Magazine Feature Writing",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A254",
+					"instructor": "Petti Fong"
+				}
+			]
+		}
+	]
+}

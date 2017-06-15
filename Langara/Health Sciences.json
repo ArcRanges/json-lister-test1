@@ -1,0 +1,212 @@
+{
+	"courses":[
+		{
+			"course_id": "HSCI 1120",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30086",
+					"subject": "HSCI",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intr Human Sexulty & Behaviour",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T001",
+					"instructor": ""
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 1130",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30088",
+					"subject": "HSCI",
+					"course": "1130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Foundations of Health Science",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122A",
+					"instructor": "Catherine Glass"
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 1140",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30107",
+					"subject": "HSCI",
+					"course": "1140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cmplmntry & Alterntv Medicine",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-WRF--",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B027",
+					"instructor": "Kenneth Naumann"
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 1160",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30108",
+					"subject": "HSCI",
+					"course": "1160",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Global Perspectives on Health",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W-F--",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A333",
+					"instructor": "Paul Sunga"
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 1180",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31135",
+					"subject": "HSCI",
+					"course": "1180",
+					"section": "002",
+					"credits": "3.00",
+					"title": "Drugs and Society",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L305",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 2212",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30111",
+					"subject": "HSCI",
+					"course": "2212",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Prs on Immn, Infcts Para Dis",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A314",
+					"instructor": "Catherine Glass"
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 2214",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30112",
+					"subject": "HSCI",
+					"course": "2214",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Perspctv Mental Hlth & Illness",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Debra Nelson"
+				}
+			]
+		},
+		{
+			"course_id": "HSCI 2216",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30113",
+					"subject": "HSCI",
+					"course": "2216",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Eco.Dtrmnnts Hmn Grth Dvlpmnt",
+					"fees": "$11.60",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-TWRF--",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A334",
+					"instructor": "Jessica Kalra"
+				}
+			]
+		}
+	]
+}

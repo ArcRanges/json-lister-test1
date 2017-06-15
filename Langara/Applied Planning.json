@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "APPL 4110",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30696",
+					"subject": "APPL",
+					"course": "4110",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Introduction to Planning",
+					"fees": "$26.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-TWRF--",
+					"time": "0900-1620",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "09-Sep-17",
+					"room": "TBSCH",
+					"instructor": "Eric Aderneck"
+				}
+			]
+		},
+		{
+			"course_id": "APPL 5110",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30697",
+					"subject": "APPL",
+					"course": "5110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Planning Applications in GIS",
+					"fees": "$53.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1800-2050",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A219",
+					"instructor": "Stuart Jones"
+				}
+			]
+		},
+		{
+			"course_id": "APPL 5120",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30698",
+					"subject": "APPL",
+					"course": "5120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Planning Theory, Prac & Ethics",
+					"fees": "$26.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1800-2050",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": "Neal Lamontagne"
+				}
+			]
+		},
+		{
+			"course_id": "APPL 5130",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30699",
+					"subject": "APPL",
+					"course": "5130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Planning Methods",
+					"fees": "$26.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1800-2050",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A219",
+					"instructor": "Stuart Jones"
+				}
+			]
+		},
+		{
+			"course_id": "APPL 5140",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30700",
+					"subject": "APPL",
+					"course": "5140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Planning Process & Law",
+					"fees": "$26.50",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1800-2050",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B149",
+					"instructor": "Erica Tiffany"
+				}
+			]
+		},
+		{
+			"course_id": "APPL 5195",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30701",
+					"subject": "APPL",
+					"course": "5195",
+					"section": "M01",
+					"credits": "1.00",
+					"title": "Transportation Planning",
+					"fees": "$53.00",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0900-1620",
+					"non_standard_start": "22-Sep-17",
+					"non_standard_end": "22-Sep-17",
+					"room": "B010",
+					"instructor": "Kathryn Nairne"
+				}
+			]
+		}
+	]
+}

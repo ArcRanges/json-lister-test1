@@ -1,0 +1,576 @@
+{
+	"courses":[
+		{
+			"course_id": "MATH 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30219",
+					"subject": "MATH",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mathematics Skill Development",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B148",
+					"instructor": "Robert Miller"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1101",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30224",
+					"subject": "MATH",
+					"course": "1101",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Basic Algebra",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B148",
+					"instructor": "Sonoko Nakano"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1118",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30234",
+					"subject": "MATH",
+					"course": "1118",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mathematics of Finance",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B155",
+					"instructor": "Hoshiar Gosal"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1119",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30242",
+					"subject": "MATH",
+					"course": "1119",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mathematics of Business Affair",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B153",
+					"instructor": "Raiomand Parsi-Feraidoonian"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1120",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30249",
+					"subject": "MATH",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Math for Professional Photog",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B148",
+					"instructor": "Raiomand Parsi-Feraidoonian"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1150",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30250",
+					"subject": "MATH",
+					"course": "1150",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Basic & Intermediate Algebra",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Nora Franzova"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1152",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30255",
+					"subject": "MATH",
+					"course": "1152",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Precalculus Algebra",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B152",
+					"instructor": "Sonoko Nakano"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1153",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30282",
+					"subject": "MATH",
+					"course": "1153",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Calculus I Part 1",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B153",
+					"instructor": "Jae-Hyung Jang"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1170",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30284",
+					"subject": "MATH",
+					"course": "1170",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Precalculus Mathematics",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B152",
+					"instructor": "Emmanuel Darkoh"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1171",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "76",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30288",
+					"subject": "MATH",
+					"course": "1171",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Calculus I",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122B",
+					"instructor": "Bruce Aubertin"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1173",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30294",
+					"subject": "MATH",
+					"course": "1173",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Calculus I With Computer Expl",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Csilla Tamas"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1174",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30295",
+					"subject": "MATH",
+					"course": "1174",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Calculus I-Econ & Bus Applica",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1230-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B031",
+					"instructor": "Bruce Aubertin"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1183",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "38",
+					"waitlist": "N/A",
+					"sel": "",
+					"course_num": "30323",
+					"subject": "MATH",
+					"course": "1183",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Computer Expl for Calculus I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C212",
+					"instructor": "Csilla Tamas"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1190",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30326",
+					"subject": "MATH",
+					"course": "1190",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Fndmtl Cncpts & Prctcs of Math",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B155",
+					"instructor": "Nora Franzova"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1253",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30329",
+					"subject": "MATH",
+					"course": "1253",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Calculus I Part 2",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Melisa Lavallee"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 1271",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30332",
+					"subject": "MATH",
+					"course": "1271",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Calculus II",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1330-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Jae-Hyung Jang"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 2310",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30335",
+					"subject": "MATH",
+					"course": "2310",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Quantitative Methods in Bus",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B029",
+					"instructor": "Rostam Shahrokh"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 2362",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30337",
+					"subject": "MATH",
+					"course": "2362",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Linear Algebra",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Csilla Tamas"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 2371",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30338",
+					"subject": "MATH",
+					"course": "2371",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Calculus III",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Bruce Aubertin"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 2373",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30339",
+					"subject": "MATH",
+					"course": "2373",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Real Analysis",
+					"fees": "$3.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Mahdad Khatirinejad"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 2382",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "38",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30340",
+					"subject": "MATH",
+					"course": "2382",
+					"section": "001",
+					"credits": "1.00",
+					"title": "Linear Algebra Laboratory",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C212",
+					"instructor": "Csilla Tamas"
+				}
+			]
+		},
+		{
+			"course_id": "MATH 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31119",
+					"subject": "MATH",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mathematics of Finance",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A229",
+					"instructor": "Raiomand Parsi-Feraidoonian"
+				}
+			]
+		}
+	]
+}

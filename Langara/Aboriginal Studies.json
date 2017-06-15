@@ -1,0 +1,186 @@
+{
+	"courses":[
+		{
+			"course_id": "ABST 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30655",
+					"subject": "ABST",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Canadian Aboriginal Experience",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L207",
+					"instructor": "Justin Wilson"
+				}
+			]
+		},
+		{
+			"course_id": "ABST 1102",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30656",
+					"subject": "ABST",
+					"course": "1102",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Abrgnl Cltre, Idntty, & Cmmnty",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L207",
+					"instructor": "Georgina Martin"
+				}
+			]
+		},
+		{
+			"course_id": "ABST 1104",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30657",
+					"subject": "ABST",
+					"course": "1104",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Canadian Aboriginal Policy",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L207",
+					"instructor": "Norma Jean Morgan"
+				}
+			]
+		},
+		{
+			"course_id": "ABST 1105",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30658",
+					"subject": "ABST",
+					"course": "1105",
+					"section": "001",
+					"credits": "0.00",
+					"title": "Aboriginal Studies Seminar",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L215",
+					"instructor": "Justin Wilson"
+				}
+			]
+		},
+		{
+			"course_id": "ABST 1107",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30659",
+					"subject": "ABST",
+					"course": "1107",
+					"section": "001",
+					"credits": "0.00",
+					"title": "Aboriginal Studies Seminar",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L215",
+					"instructor": "Justin Wilson"
+				}
+			]
+		},
+		{
+			"course_id": "ABST 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30660",
+					"subject": "ABST",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Aboriginal Contemporary Issues",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A350",
+					"instructor": "Shelley Wright"
+				}
+			]
+		},
+		{
+			"course_id": "ABST 1116",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30661",
+					"subject": "ABST",
+					"course": "1116",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Aboriginal Women in Canada",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L207",
+					"instructor": "Shelley Wright"
+				}
+			]
+		}
+	]
+}

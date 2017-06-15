@@ -1,0 +1,394 @@
+{
+	"courses":[
+		{
+			"course_id": "MARK 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30296",
+					"subject": "MARK",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Introduction to Marketing",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B030",
+					"instructor": "Anne DeWolfe"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 2000",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30310",
+					"subject": "MARK",
+					"course": "2000",
+					"section": "001",
+					"credits": "3.00",
+					"title": "E-Commerce and Distribution",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B029",
+					"instructor": "Donald Hill"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 2100",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30311",
+					"subject": "MARK",
+					"course": "2100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Marketing Research",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A352",
+					"instructor": "John Falcus"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 2400",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30312",
+					"subject": "MARK",
+					"course": "2400",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Integrated Marketing Comm",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A255",
+					"instructor": "Stephanie Koonar"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 2430",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30313",
+					"subject": "MARK",
+					"course": "2430",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Marketing Strategy",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A368",
+					"instructor": "Donald Hill"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 2500",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31123",
+					"subject": "MARK",
+					"course": "2500",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Selling Skills & Communication",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Rochelle Grayson"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 3150",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30314",
+					"subject": "MARK",
+					"course": "3150",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Social Media Strategy",
+					"fees": "$14.25",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L304",
+					"instructor": "Rochelle Grayson"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 3210",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31124",
+					"subject": "MARK",
+					"course": "3210",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Online Presence Management",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L303",
+					"instructor": "Rochelle Grayson"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 3250",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30316",
+					"subject": "MARK",
+					"course": "3250",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Public Relations",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Stephanie Koonar"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 4195",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30318",
+					"subject": "MARK",
+					"course": "4195",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Special Topics in Marketing",
+					"fees": "$14.25",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C212",
+					"instructor": "Kevin Koonar"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 4800",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30322",
+					"subject": "MARK",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Introduction to Marketing",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B252",
+					"instructor": "Anne DeWolfe"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 4810",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30327",
+					"subject": "MARK",
+					"course": "4810",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Social Media Strategy",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C410",
+					"instructor": "Paul Leigh"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 4820",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31128",
+					"subject": "MARK",
+					"course": "4820",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Integrated Marketing Communctn",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1330-1520",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A310",
+					"instructor": "Stephanie Koonar"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 4830",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30330",
+					"subject": "MARK",
+					"course": "4830",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Consumer Behaviour",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A365",
+					"instructor": "John Falcus"
+				}
+			]
+		},
+		{
+			"course_id": "MARK 4840",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30331",
+					"subject": "MARK",
+					"course": "4840",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Marketing Research",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A231",
+					"instructor": "Manish Bhatia"
+				}
+			]
+		}
+	]
+}

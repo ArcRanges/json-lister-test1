@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "INTB 2000",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30428",
+					"subject": "INTB",
+					"course": "2000",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Intrntnl Business",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B027",
+					"instructor": "Kenneth Wong"
+				}
+			]
+		},
+		{
+			"course_id": "INTB 3100",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30430",
+					"subject": "INTB",
+					"course": "3100",
+					"section": "W01",
+					"credits": "3.00",
+					"title": "Mngmnt Issues in Intrntl Busns",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Hoshiar Gosal"
+				}
+			]
+		},
+		{
+			"course_id": "INTB 3200",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31028",
+					"subject": "INTB",
+					"course": "3200",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intrntnl Mrkting",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B252",
+					"instructor": "Philip Grant"
+				}
+			]
+		},
+		{
+			"course_id": "INTB 3500",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30431",
+					"subject": "INTB",
+					"course": "3500",
+					"section": "001",
+					"credits": "3.00",
+					"title": "International Law",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1830-2120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B247",
+					"instructor": "Peter Kletas"
+				}
+			]
+		},
+		{
+			"course_id": "INTB 4800",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30432",
+					"subject": "INTB",
+					"course": "4800",
+					"section": "001",
+					"credits": "3.00",
+					"title": "International Marketing",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B254",
+					"instructor": "Philip Grant"
+				}
+			]
+		},
+		{
+			"course_id": "INTB 4810",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30433",
+					"subject": "INTB",
+					"course": "4810",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Mngmt Issues in Intl Business",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B027",
+					"instructor": "Kenneth Wong"
+				}
+			]
+		}
+	]
+}

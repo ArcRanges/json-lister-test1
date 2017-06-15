@@ -1,0 +1,420 @@
+{
+	"courses":[
+		{
+			"course_id": "BIOL 1115",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30117",
+					"subject": "BIOL",
+					"course": "1115",
+					"section": "001",
+					"credits": "4.00",
+					"title": "General Biology I",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1730-1920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A307",
+					"instructor": "Catherine Glass"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 1116",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30129",
+					"subject": "BIOL",
+					"course": "1116",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Cncpts in Biology I-Human Bio",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W-F--",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A347",
+					"instructor": "Prashant Kumar"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 1118",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30138",
+					"subject": "BIOL",
+					"course": "1118",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Intro to Environmental Ecology",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A320",
+					"instructor": "Frank Williams"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 1175",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "46",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31132",
+					"subject": "BIOL",
+					"course": "1175",
+					"section": "W01",
+					"credits": "3.00",
+					"title": "Intro to Human Biology",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "WWW",
+					"instructor": "Dave Anderson"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 1190",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30139",
+					"subject": "BIOL",
+					"course": "1190",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Hlt Sci I-Human Anat & Phy I",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M--R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A306",
+					"instructor": "Garyen Chong"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 1191",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "32",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30144",
+					"subject": "BIOL",
+					"course": "1191",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Hlt Sci II-Human Anat & Phy II",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A322",
+					"instructor": "Garyen Chong"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 1215",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30146",
+					"subject": "BIOL",
+					"course": "1215",
+					"section": "001",
+					"credits": "4.00",
+					"title": "General Biology II",
+					"fees": "$54.80",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L305",
+					"instructor": "Anoush Dadgar"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2105",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "50",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30690",
+					"subject": "BIOL",
+					"course": "2105",
+					"section": "F01",
+					"credits": "0.00",
+					"title": "Biology Field School",
+					"fees": "$307.70",
+					"repeat_limit": "2",
+					"type": "Field School",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "27-Oct-17",
+					"non_standard_end": "29-Oct-17",
+					"room": "OFFC",
+					"instructor": "Ji Yong Yang"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2292",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "26",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30151",
+					"subject": "BIOL",
+					"course": "2292",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Hlt Sci IV:Pathophysiology II",
+					"fees": "$41.80",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M--R---",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T001",
+					"instructor": "Paul Sunga"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2315",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30172",
+					"subject": "BIOL",
+					"course": "2315",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Biochemistry",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTW-F--",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T513",
+					"instructor": "Dave Anderson"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2330",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30174",
+					"subject": "BIOL",
+					"course": "2330",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Introduction to Genetics",
+					"fees": "$60.90",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTW-F--",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C412",
+					"instructor": "Mario Moniz de Sa"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2370",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30176",
+					"subject": "BIOL",
+					"course": "2370",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Microbiology I",
+					"fees": "$121.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTW-F--",
+					"time": "0930-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A237",
+					"instructor": "Eileen Rawling"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2380",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30178",
+					"subject": "BIOL",
+					"course": "2380",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Introduction to Ecology",
+					"fees": "$42.60",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "1330-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C412",
+					"instructor": "Cam MacDonald"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2415",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30179",
+					"subject": "BIOL",
+					"course": "2415",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Cell Biology",
+					"fees": "$109.70",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-TWRF--",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A334",
+					"instructor": "Jessica Kalra"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2440",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30181",
+					"subject": "BIOL",
+					"course": "2440",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Nonvascular Botany",
+					"fees": "$48.75",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "1230-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A266",
+					"instructor": "Ji Yong Yang"
+				}
+			]
+		},
+		{
+			"course_id": "BIOL 2450",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30182",
+					"subject": "BIOL",
+					"course": "2450",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Invertebrate Biology",
+					"fees": "$73.05",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W-F--",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L305",
+					"instructor": "Kenneth Naumann"
+				}
+			]
+		}
+	]
+}

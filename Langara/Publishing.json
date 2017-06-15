@@ -1,0 +1,186 @@
+{
+	"courses":[
+		{
+			"course_id": "PUBL 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31049",
+					"subject": "PUBL",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Publishing Explorations",
+					"fees": "$40.00",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1530-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A110",
+					"instructor": "Giselle Lemay"
+				}
+			]
+		},
+		{
+			"course_id": "PUBL 1115",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30206",
+					"subject": "PUBL",
+					"course": "1115",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Writing for Publication",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Christine Johnson"
+				}
+			]
+		},
+		{
+			"course_id": "PUBL 1120",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30207",
+					"subject": "PUBL",
+					"course": "1120",
+					"section": "001",
+					"credits": "6.00",
+					"title": "Graphic Design",
+					"fees": "$27.50",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1330-1720",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A247",
+					"instructor": "Terry Van Roon"
+				}
+			]
+		},
+		{
+			"course_id": "PUBL 1124",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30208",
+					"subject": "PUBL",
+					"course": "1124",
+					"section": "001",
+					"credits": "6.00",
+					"title": "Adobe Photoshop",
+					"fees": "$73.05",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A247",
+					"instructor": "Darren Bernaerdt"
+				}
+			]
+		},
+		{
+			"course_id": "PUBL 1129",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30210",
+					"subject": "PUBL",
+					"course": "1129",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Page Layout Software",
+					"fees": "$73.05",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1330-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A247",
+					"instructor": "Giselle Lemay"
+				}
+			]
+		},
+		{
+			"course_id": "PUBL 1131",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30211",
+					"subject": "PUBL",
+					"course": "1131",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Digital Ilstrtn Tools & Sftwr",
+					"fees": "$73.05",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1200-1450",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A247",
+					"instructor": "Giselle Lemay"
+				}
+			]
+		},
+		{
+			"course_id": "PUBL 1240",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "24",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30212",
+					"subject": "PUBL",
+					"course": "1240",
+					"section": "001",
+					"credits": "2.00",
+					"title": "Publishing Issues & Practices",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1800-1950",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A256",
+					"instructor": "Josue Menjivar"
+				}
+			]
+		}
+	]
+}

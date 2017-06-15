@@ -1,0 +1,524 @@
+{
+	"courses":[
+		{
+			"course_id": "THEA 1110",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "16",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30001",
+					"subject": "THEA",
+					"course": "1110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Acting I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MTW----",
+					"time": "0935-1105",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1120",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "16",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30002",
+					"subject": "THEA",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Movement I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---RF--",
+					"time": "0930-1100",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1130",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "16",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30003",
+					"subject": "THEA",
+					"course": "1130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Voice I",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1200-1300",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1140",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "16",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30004",
+					"subject": "THEA",
+					"course": "1140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Theatre Skills I",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MTWRF--",
+					"time": "1800-2130",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1210",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30005",
+					"subject": "THEA",
+					"course": "1210",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Acting II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "0935-1105",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1220",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30006",
+					"subject": "THEA",
+					"course": "1220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Movement II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "0935-1105",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1230",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30007",
+					"subject": "THEA",
+					"course": "1230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Voice II",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---RF--",
+					"time": "0930-1100",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 1240",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "10",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30008",
+					"subject": "THEA",
+					"course": "1240",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Theatre Skills II",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0935-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2110",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30009",
+					"subject": "THEA",
+					"course": "2110",
+					"section": "001",
+					"credits": "5.00",
+					"title": "Acting III",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1200-1330",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2120",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30010",
+					"subject": "THEA",
+					"course": "2120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Movement III",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T--F--",
+					"time": "0930-1050",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2130",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30011",
+					"subject": "THEA",
+					"course": "2130",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Voice III",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0900-1130",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2140",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "12",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30012",
+					"subject": "THEA",
+					"course": "2140",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Theatre Skills III",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0930-1115",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2150",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "2",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30013",
+					"subject": "THEA",
+					"course": "2150",
+					"section": "001",
+					"credits": "13.00",
+					"title": "Production Skills I",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-----S-",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2210",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "11",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30014",
+					"subject": "THEA",
+					"course": "2210",
+					"section": "001",
+					"credits": "5.00",
+					"title": "Acting IV",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2220",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "11",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30015",
+					"subject": "THEA",
+					"course": "2220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Movement IV",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "0930-1100",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2230",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "11",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30016",
+					"subject": "THEA",
+					"course": "2230",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Voice IV",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "0930-1130",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2240",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "11",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30017",
+					"subject": "THEA",
+					"course": "2240",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Theatre Skills IV",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1315-1500",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 2300",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "4",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30018",
+					"subject": "THEA",
+					"course": "2300",
+					"section": "001",
+					"credits": "15.00",
+					"title": "Production Skills III",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-----S-",
+					"time": "0900-1250",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 3150",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "11",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30019",
+					"subject": "THEA",
+					"course": "3150",
+					"section": "001",
+					"credits": "15.00",
+					"title": "Advanced Performance Skills I",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MTWRF--",
+					"time": "0930-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "THEA 3250",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "5",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30020",
+					"subject": "THEA",
+					"course": "3250",
+					"section": "001",
+					"credits": "15.00",
+					"title": "Advanced Performance Skills II",
+					"fees": "$155.35",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "MTWRF--",
+					"time": "0930-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "TBSCH",
+					"instructor": ". TBA"
+				}
+			]
+		}
+	]
+}

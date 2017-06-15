@@ -1,0 +1,56 @@
+{
+	"courses":[
+		{
+			"course_id": "ASTR 1101",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "16",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30439",
+					"subject": "ASTR",
+					"course": "1101",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Intro to the Solar System",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T346",
+					"instructor": "Tyron Tsui"
+				}
+			]
+		},
+		{
+			"course_id": "ASTR 3310",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "14",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30441",
+					"subject": "ASTR",
+					"course": "3310",
+					"section": "001",
+					"credits": "4.00",
+					"title": "Expl Unvrs I: Nght Sky Slr Sys",
+					"fees": "$21.85",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "T313",
+					"instructor": "Tyron Tsui"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,550 @@
+{
+	"courses":[
+		{
+			"course_id": "ENGL 1098",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30924",
+					"subject": "ENGL",
+					"course": "1098",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Writing & Comm Effectively",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-----S-",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A308",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1100",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30926",
+					"subject": "ENGL",
+					"course": "1100",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Readng & Wrtng about Lit.",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A237",
+					"instructor": "Camilla Pickard"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1106",
+			"offerings":[
+				{
+					"rp": "R",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30936",
+					"subject": "ENGL",
+					"course": "1106",
+					"section": "001",
+					"credits": "6.00",
+					"title": "ACCESS Langara I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A215",
+					"instructor": "Ruth Bornau"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1107",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30937",
+					"subject": "ENGL",
+					"course": "1107",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Language & Composition I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A315",
+					"instructor": "Marc Acherman"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1108",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30948",
+					"subject": "ENGL",
+					"course": "1108",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Language & Composition II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1330-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A267",
+					"instructor": "Sean Gray"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1110",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30951",
+					"subject": "ENGL",
+					"course": "1110",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Writing & Grammar Skills",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A267",
+					"instructor": "Theresa MacMillan"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1120",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30952",
+					"subject": "ENGL",
+					"course": "1120",
+					"section": "001",
+					"credits": "3.00",
+					"title": "ACCESS Langara II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A319",
+					"instructor": "Glenn Deefholts"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1121",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30953",
+					"subject": "ENGL",
+					"course": "1121",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Reading & Writing Skills",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "1130-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L305",
+					"instructor": "Marc Acherman"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1125",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30959",
+					"subject": "ENGL",
+					"course": "1125",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Linguistics:Contemp",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A339",
+					"instructor": "Peter Babiak"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1127",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "25",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30960",
+					"subject": "ENGL",
+					"course": "1127",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Essay Writing & Short Prose Sl",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A328",
+					"instructor": "Daniel Poirier"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1128",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "28",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31002",
+					"subject": "ENGL",
+					"course": "1128",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Short Prose Sls & Composition",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MT-RF--",
+					"time": "1030-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C409",
+					"instructor": "Guy Wilkinson"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1129",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31003",
+					"subject": "ENGL",
+					"course": "1129",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Modern Novel, Poetry & Drama",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C412",
+					"instructor": "Guy Wilkinson"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1130",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31010",
+					"subject": "ENGL",
+					"course": "1130",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Modern Novel, Poetry & Film",
+					"fees": "$14.55",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A327",
+					"instructor": "Peter Babiak"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 1181",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31018",
+					"subject": "ENGL",
+					"course": "1181",
+					"section": "001",
+					"credits": "3.00",
+					"title": "History of Drama & Theatre I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B153",
+					"instructor": "Joanne Horwood"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2223",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31019",
+					"subject": "ENGL",
+					"course": "2223",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Survey of English Lit I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A328",
+					"instructor": "Tanya Lewis"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2224",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31020",
+					"subject": "ENGL",
+					"course": "2224",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Survey of English Lit II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A328",
+					"instructor": "Paisley Mann"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2225",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31021",
+					"subject": "ENGL",
+					"course": "2225",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Canadian Literature",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L208",
+					"instructor": "Debra Scott"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2235",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31023",
+					"subject": "ENGL",
+					"course": "2235",
+					"section": "001",
+					"credits": "3.00",
+					"title": "American Literature",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L208",
+					"instructor": "Mark Baker"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2236",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "22",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31024",
+					"subject": "ENGL",
+					"course": "2236",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Creative Writing:Prose Fiction",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2150",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B027",
+					"instructor": "Jill Goldberg"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2237",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31025",
+					"subject": "ENGL",
+					"course": "2237",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Exploring Literature",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C508",
+					"instructor": "Rachel Mines"
+				}
+			]
+		},
+		{
+			"course_id": "ENGL 2276",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "22",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31027",
+					"subject": "ENGL",
+					"course": "2276",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Creative Writing: Non-Fiction",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "L215",
+					"instructor": "Kathleen Oliver"
+				}
+			]
+		}
+	]
+}

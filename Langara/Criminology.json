@@ -1,0 +1,160 @@
+{
+	"courses":[
+		{
+			"course_id": "CRIM 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30222",
+					"subject": "CRIM",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Criminal Justice Syst",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A307",
+					"instructor": "Darrell Kean"
+				}
+			]
+		},
+		{
+			"course_id": "CRIM 1116",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30227",
+					"subject": "CRIM",
+					"course": "1116",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Cdn Law & Legal Inst",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B248",
+					"instructor": "Shafik Bhalloo"
+				}
+			]
+		},
+		{
+			"course_id": "CRIM 1125",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30229",
+					"subject": "CRIM",
+					"course": "1125",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intro to Criminology",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A122B",
+					"instructor": "Catherine Huth"
+				}
+			]
+		},
+		{
+			"course_id": "CRIM 1220",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30233",
+					"subject": "CRIM",
+					"course": "1220",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Research Methods in Crmnlgy",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0830-1020",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B022",
+					"instructor": "Melissa Roberts"
+				}
+			]
+		},
+		{
+			"course_id": "CRIM 2315",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30237",
+					"subject": "CRIM",
+					"course": "2315",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Introduction to Corrections",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "----F--",
+					"time": "0930-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": "James Brown"
+				}
+			]
+		},
+		{
+			"course_id": "CRIM 2316",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30238",
+					"subject": "CRIM",
+					"course": "2316",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Criminal Law & Court Procedure",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": "Christopher Nowlin"
+				}
+			]
+		}
+	]
+}

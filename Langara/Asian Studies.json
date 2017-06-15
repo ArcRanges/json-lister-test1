@@ -1,0 +1,212 @@
+{
+	"courses":[
+		{
+			"course_id": "ASIA 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30679",
+					"subject": "ASIA",
+					"course": "1100",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Intro to Traditional Asia",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1230-1420",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A136B",
+					"instructor": "Avram Agov"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 1125",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "80",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30682",
+					"subject": "ASIA",
+					"course": "1125",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Intro to East Asia (China)",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1430-1620",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A122A",
+					"instructor": "Li Yu"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 1135",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30683",
+					"subject": "ASIA",
+					"course": "1135",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Intro to East Asia (Japan)",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M------",
+					"time": "1830-2120",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A255",
+					"instructor": "Nariko Takayanagi-Heine"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 1225",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30684",
+					"subject": "ASIA",
+					"course": "1225",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Contemporary China",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1830-2120",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A255",
+					"instructor": "Li Yu"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 2115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30685",
+					"subject": "ASIA",
+					"course": "2115",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Japanese Society and Culture",
+					"fees": "$14.25",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A307",
+					"instructor": "Nariko Takayanagi-Heine"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 2170",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30686",
+					"subject": "ASIA",
+					"course": "2170",
+					"section": "A01",
+					"credits": "3.00",
+					"title": "Imprlsm in China (19th Cntry)",
+					"fees": "$14.25",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "---R---",
+					"time": "1830-2120",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "A255",
+					"instructor": "Avram Agov"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 2215",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31050",
+					"subject": "ASIA",
+					"course": "2215",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Japan Through Popular Culture",
+					"fees": "$14.55",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1430-1620",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C510",
+					"instructor": "Nariko Takayanagi-Heine"
+				}
+			]
+		},
+		{
+			"course_id": "ASIA 3386",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31051",
+					"subject": "ASIA",
+					"course": "3386",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Asian Century: Modern Korea",
+					"fees": "",
+					"repeat_limit": "-",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1030-1220",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B152",
+					"instructor": "Avram Agov"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"courses":[
+		{
+			"course_id": "NUTR 1100",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31173",
+					"subject": "NUTR",
+					"course": "1100",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Introduction to Nutrition",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "B026",
+					"instructor": ". TBA"
+				}
+			]
+		},
+		{
+			"course_id": "NUTR 2322",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30819",
+					"subject": "NUTR",
+					"course": "2322",
+					"section": "AW1",
+					"credits": "3.00",
+					"title": "Advanced Nutrition I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "05-Sep-17",
+					"non_standard_end": "19-Oct-17",
+					"room": "WWW",
+					"instructor": "Janice Sorensen"
+				}
+			]
+		},
+		{
+			"course_id": "NUTR 2422",
+			"offerings":[
+				{
+					"rp": "RP",
+					"seats": "20",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30820",
+					"subject": "NUTR",
+					"course": "2422",
+					"section": "BW1",
+					"credits": "3.00",
+					"title": "Advanced Nutrition II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "WWW",
+					"days": "-------",
+					"time": "-",
+					"non_standard_start": "23-Oct-17",
+					"non_standard_end": "30-Nov-17",
+					"room": "WWW",
+					"instructor": "Janice Sorensen"
+				}
+			]
+		},
+		{
+			"course_id": "NUTR 2500",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "40",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "31171",
+					"subject": "NUTR",
+					"course": "2500",
+					"section": "M01",
+					"credits": "3.00",
+					"title": "Sports Nutrition",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "--W----",
+					"time": "1630-1820",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "C508",
+					"instructor": "Tiffany Yeh"
+				}
+			]
+		}
+	]
+}

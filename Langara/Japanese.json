@@ -1,0 +1,108 @@
+{
+	"courses":[
+		{
+			"course_id": "JAPN 1115",
+			"offerings":[
+				{
+					"rp": "",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30886",
+					"subject": "JAPN",
+					"course": "1115",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's Japanese I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "MTWR---",
+					"time": "0830-0920",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A308",
+					"instructor": "Yayoi Shinbo"
+				}
+			]
+		},
+		{
+			"course_id": "JAPN 1117",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30892",
+					"subject": "JAPN",
+					"course": "1117",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate Japanese I",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "-T-R---",
+					"time": "1130-1320",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A315",
+					"instructor": "Yayoi Shinbo"
+				}
+			]
+		},
+		{
+			"course_id": "JAPN 1215",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "35",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30893",
+					"subject": "JAPN",
+					"course": "1215",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Beginner's Japanese II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "0930-1120",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A315",
+					"instructor": "Choji Hayashi"
+				}
+			]
+		},
+		{
+			"course_id": "JAPN 1217",
+			"offerings":[
+				{
+					"rp": "P",
+					"seats": "30",
+					"waitlist": "",
+					"sel": "",
+					"course_num": "30895",
+					"subject": "JAPN",
+					"course": "1217",
+					"section": "001",
+					"credits": "3.00",
+					"title": "Intermediate Japanese II",
+					"fees": "",
+					"repeat_limit": "2",
+					"type": "Lecture",
+					"days": "M-W----",
+					"time": "1230-1420",
+					"non_standard_start": "",
+					"non_standard_end": "",
+					"room": "A322",
+					"instructor": "Choji Hayashi"
+				}
+			]
+		}
+	]
+}
