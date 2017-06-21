@@ -1,10 +1,10 @@
 {
 	"departments":[
-		{
-			"department": "Aboriginal Studies",
-			"link": "https://raw.githubusercontent.com/mahkrish/Korse/master/Langara/Aboriginal%20Studies.json",
-		},
-		{
+	{
+		"department": "Aboriginal Studies",
+		"link": "https://raw.githubusercontent.com/mahkrish/Korse/master/Langara/Aboriginal%20Studies.json",
+	},
+	{
             "department": "Anthropology",
 			"link": "https://raw.githubusercontent.com/mahkrish/Korse/master/Langara/Anthropology.json",
         },
@@ -15,5 +15,6 @@
         {
             "department": "Applied Planning",
 			"link": "https://raw.githubusercontent.com/mahkrish/Korse/master/Langara/Applied%20Planning.json",
-        },
+        }
+	],
 }
